@@ -1,0 +1,2 @@
+﻿PaymentSerialNumber,TransactionTypeCode,PaymentType,CustomerReferenceNo,DebitAccountNo,BeneficiaryAccountNo,BeneficiaryName,DocumentID,PlaceofIssue,IDIssuanceDate,BeneficiaryBankSwiftCodeIFSCCode,TransactionCurrency,PaymentAmount,ChargeType,Paymentdetails,PurposeCode,ValueDate,BeneficiaryID,BeneficiaryAddr1,BeneficiaryAddr2
+1,BT,,b9f226af-4f31-42e5-ad32-97ef40334b3b,0681000002628,113000160868,CT VIEN THONG DIEN LUC VA CNTT CN TAP DOAN DIEN LUC VN,,,,1203001,VND,850,OUR,ANHLONGVCBTLAI,1,20/12/2021,,,

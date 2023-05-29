@@ -1,0 +1,2 @@
+﻿PaymentSerialNumber,TransactionTypeCode,Payment Type,CustomerReferenceNo,DebitAccountNo,BeneficiaryAccountNo,BeneficiaryName,Document ID,PlaceofIssue,IDIssuanceDate,BeneficiaryBankSwiftCodeIFSCCode,TransactionCurrency,PaymentAmount,ChargeType,Paymentdetails,PurposeCode,ValueDate,BeneficiaryID,BeneficiaryAddr1,BeneficiaryAddr2,Sign1,Sign2,
+1,BT,blank,,116000195294,1223344444455,Nguyễn Ngọc Hiệp,,,,Citad code,VND,4500000.00,BEN,,1,07/12/2021,,,,,,

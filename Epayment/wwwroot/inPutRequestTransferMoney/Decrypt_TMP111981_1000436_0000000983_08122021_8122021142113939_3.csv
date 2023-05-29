@@ -1,0 +1,2 @@
+﻿PaymentSerialNumber,TransactionTypeCode,Payment Type,CustomerReferenceNo,DebitAccountNo,BeneficiaryAccountNo,BeneficiaryName,Document ID,PlaceofIssue,IDIssuanceDate,BeneficiaryBankSwiftCodeIFSCCode,TransactionCurrency,PaymentAmount,ChargeType,Paymentdetails,PurposeCode,ValueDate,BeneficiaryID,BeneficiaryAddr1,BeneficiaryAddr2,Sign1,Sign2,
+1,BT,blank,,116000195294,0129837294,NGUYEN VAN EASYTRANS,,,,Citad code,VND,3000000000.00,BEN,,1,08/12/2021,,,,,,

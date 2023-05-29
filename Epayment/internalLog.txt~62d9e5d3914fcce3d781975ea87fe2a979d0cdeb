@@ -1,0 +1,1978 @@
+2021-08-06 11:02:45.8219 Info Message Template Auto Format enabled
+2021-08-06 11:02:45.8311 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-06 11:02:45.8687 Info Adding target FileTarget(Name=alldata)
+2021-08-06 11:02:45.8725 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-06 11:02:45.8967 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\CCBG\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-06 11:03:01.7157 Info Shutdown() called. Logger closing...
+2021-08-06 11:03:01.7157 Info Closing old configuration.
+2021-08-06 11:03:01.7157 Info Logger has been closed down.
+2021-08-06 11:04:05.6512 Info Message Template Auto Format enabled
+2021-08-06 11:04:05.6571 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-06 11:04:05.6891 Info Adding target FileTarget(Name=alldata)
+2021-08-06 11:04:05.6891 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-06 11:04:05.7220 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\CCBG\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-06 11:04:07.6609 Info Shutdown() called. Logger closing...
+2021-08-06 11:04:07.6609 Info Closing old configuration.
+2021-08-06 11:04:07.6706 Info Logger has been closed down.
+2021-08-06 11:06:23.2855 Info Message Template Auto Format enabled
+2021-08-06 11:06:23.2855 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-06 11:06:23.3260 Info Adding target FileTarget(Name=alldata)
+2021-08-06 11:06:23.3260 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-06 11:06:23.3458 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\CCBG\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-06 11:08:32.4665 Info Shutdown() called. Logger closing...
+2021-08-06 11:08:32.4665 Info Closing old configuration.
+2021-08-06 11:08:32.4665 Info Logger has been closed down.
+2021-08-06 11:08:32.4665 Info AppDomain Shutting down. Logger closing...
+2021-08-06 11:08:32.4665 Info Logger has been shut down.
+2021-08-06 11:10:22.8202 Info Message Template Auto Format enabled
+2021-08-06 11:10:22.8419 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-06 11:10:22.9132 Info Adding target FileTarget(Name=alldata)
+2021-08-06 11:10:22.9222 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-06 11:10:22.9599 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\CCBG\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-06 14:08:45.5349 Info Message Template Auto Format enabled
+2021-08-06 14:08:45.5519 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-06 14:08:45.6212 Info Adding target FileTarget(Name=alldata)
+2021-08-06 14:08:45.6847 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-06 14:08:45.7385 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\CCBG\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-06 14:09:00.3340 Info Message Template Auto Format enabled
+2021-08-06 14:09:00.3340 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-06 14:09:00.3792 Info Adding target FileTarget(Name=alldata)
+2021-08-06 14:09:00.3792 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-06 14:09:00.4042 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\CCBG\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\NLog.config
+2021-08-06 14:09:00.4179 Info Configuration initialized.
+2021-08-06 14:09:00.4179 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-08-06 14:09:01.1318 Info AppDomain Shutting down. Logger closing...
+2021-08-06 14:09:01.1474 Info Logger has been shut down.
+2021-08-06 14:09:32.5712 Info Message Template Auto Format enabled
+2021-08-06 14:09:32.5789 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-06 14:09:32.6092 Info Adding target FileTarget(Name=alldata)
+2021-08-06 14:09:32.6092 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-06 14:09:32.6276 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\CCBG\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\NLog.config
+2021-08-06 14:09:32.6276 Info Configuration initialized.
+2021-08-06 14:09:32.6276 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-08-06 14:09:33.7014 Info AppDomain Shutting down. Logger closing...
+2021-08-06 14:09:33.7014 Info Logger has been shut down.
+2021-08-06 14:10:39.0184 Info Message Template Auto Format enabled
+2021-08-06 14:10:39.0361 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-06 14:10:39.1074 Info Adding target FileTarget(Name=alldata)
+2021-08-06 14:10:39.1172 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-06 14:10:39.1574 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\CCBG\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-06 14:39:18.2083 Info Message Template Auto Format enabled
+2021-08-06 14:39:18.2349 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-06 14:39:18.3248 Info Adding target FileTarget(Name=alldata)
+2021-08-06 14:39:18.3397 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-06 14:39:18.4098 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\CCBG\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-06 14:40:36.8156 Info Message Template Auto Format enabled
+2021-08-06 14:40:36.8295 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-06 14:40:36.9368 Info Adding target FileTarget(Name=alldata)
+2021-08-06 14:40:36.9559 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-06 14:40:37.0382 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\CCBG\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-06 15:33:25.3463 Info Message Template Auto Format enabled
+2021-08-06 15:33:25.3595 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-06 15:33:25.4260 Info Adding target FileTarget(Name=alldata)
+2021-08-06 15:33:25.4260 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-06 15:33:25.4739 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\CCBG\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-06 15:34:46.3766 Info Message Template Auto Format enabled
+2021-08-06 15:34:46.3984 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-06 15:34:46.4678 Info Adding target FileTarget(Name=alldata)
+2021-08-06 15:34:46.4678 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-06 15:34:46.5150 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\CCBG\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-06 15:35:33.8522 Info Message Template Auto Format enabled
+2021-08-06 15:35:33.8659 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-06 15:35:33.9222 Info Adding target FileTarget(Name=alldata)
+2021-08-06 15:35:33.9222 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-06 15:35:33.9698 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\CCBG\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-06 15:36:25.1648 Info Message Template Auto Format enabled
+2021-08-06 15:36:25.1863 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-06 15:36:25.3595 Info Adding target FileTarget(Name=alldata)
+2021-08-06 15:36:25.3751 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-06 15:36:25.4878 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\CCBG\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-06 15:37:20.4095 Info Message Template Auto Format enabled
+2021-08-06 15:37:20.4241 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-06 15:37:20.5081 Info Adding target FileTarget(Name=alldata)
+2021-08-06 15:37:20.5279 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-06 15:37:20.5807 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\CCBG\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-06 15:38:17.0586 Info Message Template Auto Format enabled
+2021-08-06 15:38:17.0699 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-06 15:38:17.1395 Info Adding target FileTarget(Name=alldata)
+2021-08-06 15:38:17.1395 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-06 15:38:17.1857 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\CCBG\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-06 15:43:55.5507 Info Message Template Auto Format enabled
+2021-08-06 15:43:55.5700 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-06 15:43:55.6457 Info Adding target FileTarget(Name=alldata)
+2021-08-06 15:43:55.6686 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-06 15:43:55.7251 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\CCBG\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-06 15:44:52.1710 Info Message Template Auto Format enabled
+2021-08-06 15:44:52.1872 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-06 15:44:52.2687 Info Adding target FileTarget(Name=alldata)
+2021-08-06 15:44:52.2687 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-06 15:44:52.3407 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\CCBG\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-06 15:47:47.5792 Info Message Template Auto Format enabled
+2021-08-06 15:47:47.5975 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-06 15:47:47.6712 Info Adding target FileTarget(Name=alldata)
+2021-08-06 15:47:47.6712 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-06 15:47:47.7299 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\CCBG\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-06 15:48:36.5138 Info Message Template Auto Format enabled
+2021-08-06 15:48:36.5305 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-06 15:48:36.5970 Info Adding target FileTarget(Name=alldata)
+2021-08-06 15:48:36.5970 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-06 15:48:36.6484 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\CCBG\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-06 17:09:17.5146 Info Message Template Auto Format enabled
+2021-08-06 17:09:17.5212 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-06 17:09:17.5614 Info Adding target FileTarget(Name=alldata)
+2021-08-06 17:09:17.5626 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-06 17:09:17.5821 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\CCBG\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\NLog.config
+2021-08-06 17:09:17.5958 Info Configuration initialized.
+2021-08-06 17:09:17.5958 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-08-06 17:09:18.6164 Info AppDomain Shutting down. Logger closing...
+2021-08-06 17:09:18.6349 Info Logger has been shut down.
+2021-08-06 17:09:34.7229 Info Message Template Auto Format enabled
+2021-08-06 17:09:34.7229 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-06 17:09:34.7586 Info Adding target FileTarget(Name=alldata)
+2021-08-06 17:09:34.7586 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-06 17:09:34.7756 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\CCBG\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\NLog.config
+2021-08-06 17:09:34.7872 Info Configuration initialized.
+2021-08-06 17:09:34.7872 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-08-06 17:09:35.6910 Info AppDomain Shutting down. Logger closing...
+2021-08-06 17:09:35.7069 Info Logger has been shut down.
+2021-08-06 17:44:41.7598 Info Message Template Auto Format enabled
+2021-08-06 17:44:41.7598 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-06 17:44:41.8068 Info Adding target FileTarget(Name=alldata)
+2021-08-06 17:44:41.8068 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-06 17:44:41.8279 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\CCBG\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\NLog.config
+2021-08-06 17:44:41.8408 Info Configuration initialized.
+2021-08-06 17:44:41.8408 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-08-06 17:44:42.6214 Info AppDomain Shutting down. Logger closing...
+2021-08-06 17:44:42.6362 Info Logger has been shut down.
+2021-08-06 17:45:15.9870 Info Message Template Auto Format enabled
+2021-08-06 17:45:15.9870 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-06 17:45:16.0300 Info Adding target FileTarget(Name=alldata)
+2021-08-06 17:45:16.0300 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-06 17:45:16.0485 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\CCBG\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\NLog.config
+2021-08-06 17:45:16.0485 Info Configuration initialized.
+2021-08-06 17:45:16.0485 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-08-06 17:45:17.0622 Info AppDomain Shutting down. Logger closing...
+2021-08-06 17:45:17.0773 Info Logger has been shut down.
+2021-08-06 17:46:43.8777 Info Message Template Auto Format enabled
+2021-08-06 17:46:43.8777 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-06 17:46:43.9147 Info Adding target FileTarget(Name=alldata)
+2021-08-06 17:46:43.9147 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-06 17:46:43.9319 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\CCBG\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\NLog.config
+2021-08-06 17:46:43.9437 Info Configuration initialized.
+2021-08-06 17:46:43.9437 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-08-06 17:46:44.6136 Info AppDomain Shutting down. Logger closing...
+2021-08-06 17:46:44.6288 Info Logger has been shut down.
+2021-08-06 17:47:01.5336 Info Message Template Auto Format enabled
+2021-08-06 17:47:01.5336 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-06 17:47:01.5684 Info Adding target FileTarget(Name=alldata)
+2021-08-06 17:47:01.5684 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-06 17:47:01.5859 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\CCBG\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\NLog.config
+2021-08-06 17:47:01.5979 Info Configuration initialized.
+2021-08-06 17:47:01.5979 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-08-06 17:47:02.5089 Info AppDomain Shutting down. Logger closing...
+2021-08-06 17:47:02.5257 Info Logger has been shut down.
+2021-08-06 17:54:10.2093 Info Message Template Auto Format enabled
+2021-08-06 17:54:10.2250 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-06 17:54:10.2961 Info Adding target FileTarget(Name=alldata)
+2021-08-06 17:54:10.3091 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-06 17:54:10.3567 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-06 18:08:59.8626 Info Message Template Auto Format enabled
+2021-08-06 18:08:59.8676 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-06 18:08:59.9009 Info Adding target FileTarget(Name=alldata)
+2021-08-06 18:08:59.9009 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-06 18:08:59.9201 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\CCBG\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\NLog.config
+2021-08-06 18:08:59.9326 Info Configuration initialized.
+2021-08-06 18:08:59.9326 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-08-06 18:09:00.7574 Info AppDomain Shutting down. Logger closing...
+2021-08-06 18:09:00.7733 Info Logger has been shut down.
+2021-08-06 18:09:18.7684 Info Message Template Auto Format enabled
+2021-08-06 18:09:18.7752 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-06 18:09:18.8291 Info Adding target FileTarget(Name=alldata)
+2021-08-06 18:09:18.8291 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-06 18:09:18.8540 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\CCBG\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\NLog.config
+2021-08-06 18:09:18.8707 Info Configuration initialized.
+2021-08-06 18:09:18.8707 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-08-06 18:09:34.1116 Info AppDomain Shutting down. Logger closing...
+2021-08-06 18:09:34.1330 Info Logger has been shut down.
+2021-08-06 18:10:21.0674 Info Message Template Auto Format enabled
+2021-08-06 18:10:21.0825 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-06 18:10:21.1342 Info Adding target FileTarget(Name=alldata)
+2021-08-06 18:10:21.1342 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-06 18:10:21.1700 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-07 09:02:47.9196 Info Message Template Auto Format enabled
+2021-08-07 09:02:47.9467 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-07 09:02:47.9989 Info Adding target FileTarget(Name=alldata)
+2021-08-07 09:02:48.0107 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-07 09:02:48.0499 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-08 18:59:28.3980 Info Message Template Auto Format enabled
+2021-08-08 18:59:28.4227 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-08 18:59:28.4765 Info Adding target FileTarget(Name=alldata)
+2021-08-08 18:59:28.4765 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-08 18:59:28.5253 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-09 09:01:35.1176 Info Message Template Auto Format enabled
+2021-08-09 09:01:35.1457 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-09 09:01:35.2067 Info Adding target FileTarget(Name=alldata)
+2021-08-09 09:01:35.2150 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-09 09:01:35.2439 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-09 09:09:45.1014 Info Message Template Auto Format enabled
+2021-08-09 09:09:45.1014 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-09 09:09:45.1555 Info Adding target FileTarget(Name=alldata)
+2021-08-09 09:09:45.1634 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-09 09:09:45.2031 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-09 09:23:30.4935 Info Message Template Auto Format enabled
+2021-08-09 09:23:30.5047 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-09 09:23:30.5517 Info Adding target FileTarget(Name=alldata)
+2021-08-09 09:23:30.5517 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-09 09:23:30.5882 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-09 13:39:17.9450 Info Message Template Auto Format enabled
+2021-08-09 13:39:17.9450 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-09 13:39:18.0044 Info Adding target FileTarget(Name=alldata)
+2021-08-09 13:39:18.0044 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-09 13:39:18.0438 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-09 14:30:01.5351 Info Message Template Auto Format enabled
+2021-08-09 14:30:01.5502 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-09 14:30:01.5952 Info Adding target FileTarget(Name=alldata)
+2021-08-09 14:30:01.6034 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-09 14:30:01.6379 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-09 14:32:39.5933 Info Message Template Auto Format enabled
+2021-08-09 14:32:39.6101 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-09 14:32:39.6686 Info Adding target FileTarget(Name=alldata)
+2021-08-09 14:32:39.6686 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-09 14:32:39.7249 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 08:38:57.3399 Info Configuration file change detected! Reloading in 1000ms...
+2021-08-10 08:38:57.3399 Info Configuration file change detected! Reloading in 1000ms...
+2021-08-10 08:38:57.3399 Info Configuration file change detected! Reloading in 1000ms...
+2021-08-10 08:38:58.3572 Info Reloading configuration...
+2021-08-10 08:38:58.3686 Info Configuring from an XML element in D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config...
+2021-08-10 08:38:58.3686 Info Message Template Auto Format enabled
+2021-08-10 08:38:58.3686 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 08:38:58.3686 Info Adding target FileTarget(Name=alldata)
+2021-08-10 08:38:58.3686 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 08:38:58.3686 Info Closing old configuration.
+2021-08-10 08:38:58.4022 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 08:39:33.9085 Info Message Template Auto Format enabled
+2021-08-10 08:39:33.9202 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 08:39:33.9638 Info Adding target FileTarget(Name=alldata)
+2021-08-10 08:39:33.9638 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 08:39:33.9990 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 08:40:04.5631 Info Message Template Auto Format enabled
+2021-08-10 08:40:04.5631 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 08:40:04.5916 Info Adding target FileTarget(Name=alldata)
+2021-08-10 08:40:04.5916 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 08:40:04.6050 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\NLog.config
+2021-08-10 08:40:04.6050 Info Configuration initialized.
+2021-08-10 08:40:04.6050 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-08-10 08:40:05.1631 Info AppDomain Shutting down. Logger closing...
+2021-08-10 08:40:05.1735 Info Logger has been shut down.
+2021-08-10 08:41:38.8892 Info Message Template Auto Format enabled
+2021-08-10 08:41:38.8892 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 08:41:38.9189 Info Adding target FileTarget(Name=alldata)
+2021-08-10 08:41:38.9189 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 08:41:38.9332 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\NLog.config
+2021-08-10 08:41:38.9332 Info Configuration initialized.
+2021-08-10 08:41:38.9332 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-08-10 08:41:39.7043 Info AppDomain Shutting down. Logger closing...
+2021-08-10 08:41:39.7153 Info Logger has been shut down.
+2021-08-10 08:41:50.8771 Info Message Template Auto Format enabled
+2021-08-10 08:41:50.8888 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 08:41:50.9355 Info Adding target FileTarget(Name=alldata)
+2021-08-10 08:41:50.9355 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 08:41:50.9809 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 08:45:15.4049 Info Configuration file change detected! Reloading in 1000ms...
+2021-08-10 08:45:15.4049 Info Configuration file change detected! Reloading in 1000ms...
+2021-08-10 08:45:15.4049 Info Configuration file change detected! Reloading in 1000ms...
+2021-08-10 08:45:16.4123 Info Reloading configuration...
+2021-08-10 08:45:16.4123 Info Configuring from an XML element in D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config...
+2021-08-10 08:45:16.4123 Info Message Template Auto Format enabled
+2021-08-10 08:45:16.4155 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 08:45:16.4155 Info Adding target FileTarget(Name=alldata)
+2021-08-10 08:45:16.4155 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 08:45:16.4155 Info Closing old configuration.
+2021-08-10 08:45:16.4385 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 08:46:01.5111 Info Message Template Auto Format enabled
+2021-08-10 08:46:01.5111 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 08:46:01.5378 Info Adding target FileTarget(Name=alldata)
+2021-08-10 08:46:01.5378 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 08:46:01.5518 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\NLog.config
+2021-08-10 08:46:01.5612 Info Configuration initialized.
+2021-08-10 08:46:01.5612 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-08-10 08:46:02.0831 Info AppDomain Shutting down. Logger closing...
+2021-08-10 08:46:02.0926 Info Logger has been shut down.
+2021-08-10 08:46:10.8432 Info Message Template Auto Format enabled
+2021-08-10 08:46:10.8432 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 08:46:10.8781 Info Adding target FileTarget(Name=alldata)
+2021-08-10 08:46:10.8781 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 08:46:10.8920 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\NLog.config
+2021-08-10 08:46:10.9014 Info Configuration initialized.
+2021-08-10 08:46:10.9014 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-08-10 08:46:11.5686 Info AppDomain Shutting down. Logger closing...
+2021-08-10 08:46:11.5775 Info Logger has been shut down.
+2021-08-10 08:51:10.2941 Info Message Template Auto Format enabled
+2021-08-10 08:51:10.2941 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 08:51:10.3230 Info Adding target FileTarget(Name=alldata)
+2021-08-10 08:51:10.3230 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 08:51:10.3378 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\NLog.config
+2021-08-10 08:51:10.3378 Info Configuration initialized.
+2021-08-10 08:51:10.3378 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-08-10 08:51:10.8824 Info AppDomain Shutting down. Logger closing...
+2021-08-10 08:51:10.8932 Info Logger has been shut down.
+2021-08-10 08:51:41.7071 Info Message Template Auto Format enabled
+2021-08-10 08:51:41.7071 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 08:51:41.7364 Info Adding target FileTarget(Name=alldata)
+2021-08-10 08:51:41.7364 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 08:51:41.7515 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\NLog.config
+2021-08-10 08:51:41.7610 Info Configuration initialized.
+2021-08-10 08:51:41.7610 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-08-10 08:51:42.5905 Info AppDomain Shutting down. Logger closing...
+2021-08-10 08:51:42.5905 Info Logger has been shut down.
+2021-08-10 09:03:09.3984 Info Message Template Auto Format enabled
+2021-08-10 09:03:09.4141 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:03:09.4673 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:03:09.4673 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:03:09.5116 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:08:56.5989 Info Message Template Auto Format enabled
+2021-08-10 09:08:56.6144 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:08:56.6594 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:08:56.6675 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:08:56.6940 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:11:14.0739 Info Message Template Auto Format enabled
+2021-08-10 09:11:14.0739 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:11:14.1213 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:11:14.1213 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:11:14.1578 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:11:44.6669 Info Message Template Auto Format enabled
+2021-08-10 09:11:44.6669 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:11:44.7258 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:11:44.7356 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:11:44.7669 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:12:35.1388 Info Message Template Auto Format enabled
+2021-08-10 09:12:35.1503 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:12:35.1992 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:12:35.1992 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:12:35.2413 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:14:33.1338 Info Message Template Auto Format enabled
+2021-08-10 09:14:33.1462 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:14:33.1921 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:14:33.1996 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:14:33.2281 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:15:27.4536 Info Message Template Auto Format enabled
+2021-08-10 09:15:27.4674 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:15:27.5179 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:15:27.5250 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:15:27.5585 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:17:11.7691 Info Message Template Auto Format enabled
+2021-08-10 09:17:11.7812 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:17:11.8210 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:17:11.8304 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:17:11.8597 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:19:01.9429 Info Message Template Auto Format enabled
+2021-08-10 09:19:01.9575 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:19:02.0099 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:19:02.0099 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:19:02.0540 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:19:23.1339 Info Message Template Auto Format enabled
+2021-08-10 09:19:23.1380 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:19:23.1637 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:19:23.1637 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:19:23.1792 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:20:19.2163 Info Shutdown() called. Logger closing...
+2021-08-10 09:20:19.2163 Info Closing old configuration.
+2021-08-10 09:20:19.2163 Info Logger has been closed down.
+2021-08-10 09:20:19.2163 Info AppDomain Shutting down. Logger closing...
+2021-08-10 09:20:19.2163 Info Logger has been shut down.
+2021-08-10 09:20:25.4182 Info Message Template Auto Format enabled
+2021-08-10 09:20:25.4328 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:20:25.4796 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:20:25.4979 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:20:25.5391 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:21:07.6258 Info Message Template Auto Format enabled
+2021-08-10 09:21:07.6365 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:21:07.6786 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:21:07.6853 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:21:07.7106 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:22:15.0944 Info Message Template Auto Format enabled
+2021-08-10 09:22:15.1099 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:22:15.1590 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:22:15.1677 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:22:15.1968 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:24:03.0083 Info Message Template Auto Format enabled
+2021-08-10 09:24:03.0239 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:24:03.0660 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:24:03.0731 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:24:03.1080 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:24:41.3526 Info Message Template Auto Format enabled
+2021-08-10 09:24:41.3679 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:24:41.4227 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:24:41.4227 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:24:41.4684 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:25:06.0726 Info Message Template Auto Format enabled
+2021-08-10 09:25:06.0726 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:25:06.1258 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:25:06.1258 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:25:06.1598 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:25:45.6469 Info Message Template Auto Format enabled
+2021-08-10 09:25:45.6600 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:25:45.7196 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:25:45.7196 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:25:45.7651 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:27:05.3107 Info Message Template Auto Format enabled
+2021-08-10 09:27:05.3241 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:27:05.3749 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:27:05.3749 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:27:05.4115 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:28:04.4552 Info Message Template Auto Format enabled
+2021-08-10 09:28:04.4707 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:28:04.5161 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:28:04.5161 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:28:04.5519 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:29:43.4130 Info Message Template Auto Format enabled
+2021-08-10 09:29:43.4246 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:29:43.4697 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:29:43.4697 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:29:43.5072 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:30:36.5304 Info Message Template Auto Format enabled
+2021-08-10 09:30:36.5444 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:30:36.5940 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:30:36.5940 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:30:36.6340 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:33:59.9285 Info Message Template Auto Format enabled
+2021-08-10 09:33:59.9429 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:33:59.9944 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:34:00.0104 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:34:00.0513 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:36:53.0486 Info Message Template Auto Format enabled
+2021-08-10 09:36:53.0587 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:36:53.1067 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:36:53.1067 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:36:53.1481 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:38:15.3284 Info Message Template Auto Format enabled
+2021-08-10 09:38:15.3466 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:38:15.3922 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:38:15.4001 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:38:15.4299 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:39:24.3138 Info Message Template Auto Format enabled
+2021-08-10 09:39:24.3321 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:39:24.3883 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:39:24.3883 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:39:24.4360 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:39:58.3211 Info Message Template Auto Format enabled
+2021-08-10 09:39:58.3312 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:39:58.3726 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:39:58.3726 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:39:58.4068 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:40:52.6479 Info Message Template Auto Format enabled
+2021-08-10 09:40:52.6614 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:40:52.7029 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:40:52.7029 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:40:52.7446 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:41:54.1727 Info Message Template Auto Format enabled
+2021-08-10 09:41:54.1859 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:41:54.2288 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:41:54.2288 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:41:54.2699 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:43:23.5585 Info Message Template Auto Format enabled
+2021-08-10 09:43:23.5736 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:43:23.6229 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:43:23.6229 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:43:23.6601 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:46:08.8033 Info Message Template Auto Format enabled
+2021-08-10 09:46:08.8212 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:46:08.8843 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:46:08.8908 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:46:08.9278 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:48:25.7492 Info Message Template Auto Format enabled
+2021-08-10 09:48:25.7623 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:48:25.8181 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:48:25.8259 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:48:25.8527 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:48:59.8828 Info Message Template Auto Format enabled
+2021-08-10 09:48:59.9001 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:48:59.9568 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:48:59.9657 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:49:00.0115 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:49:55.5397 Info Message Template Auto Format enabled
+2021-08-10 09:49:55.5533 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:49:55.6137 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:49:55.6208 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:49:55.6533 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:53:00.4320 Info Message Template Auto Format enabled
+2021-08-10 09:53:00.4320 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:53:00.4901 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:53:00.5013 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:53:00.5361 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:53:58.0704 Info Message Template Auto Format enabled
+2021-08-10 09:53:58.0869 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:53:58.1419 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:53:58.1501 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:53:58.1834 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:55:14.2636 Info Message Template Auto Format enabled
+2021-08-10 09:55:14.2789 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:55:14.3349 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:55:14.3431 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:55:14.3729 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:56:28.9749 Info Message Template Auto Format enabled
+2021-08-10 09:56:28.9870 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:56:29.0370 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:56:29.0459 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:56:29.0768 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 09:58:59.4176 Info Message Template Auto Format enabled
+2021-08-10 09:58:59.4405 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:58:59.4944 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:58:59.4944 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 09:58:59.5348 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 10:01:56.2398 Info Message Template Auto Format enabled
+2021-08-10 10:01:56.2558 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 10:01:56.3010 Info Adding target FileTarget(Name=alldata)
+2021-08-10 10:01:56.3089 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 10:01:56.3465 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 10:03:13.9690 Info Message Template Auto Format enabled
+2021-08-10 10:03:13.9913 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 10:03:14.0366 Info Adding target FileTarget(Name=alldata)
+2021-08-10 10:03:14.0445 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 10:03:14.0780 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 10:07:06.2458 Info Message Template Auto Format enabled
+2021-08-10 10:07:06.2458 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 10:07:06.3029 Info Adding target FileTarget(Name=alldata)
+2021-08-10 10:07:06.3109 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 10:07:06.3419 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 10:10:53.8503 Info Message Template Auto Format enabled
+2021-08-10 10:10:53.8702 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 10:10:53.9106 Info Adding target FileTarget(Name=alldata)
+2021-08-10 10:10:53.9169 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 10:10:53.9460 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 10:29:50.9748 Info Message Template Auto Format enabled
+2021-08-10 10:29:50.9939 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 10:29:51.0767 Info Adding target FileTarget(Name=alldata)
+2021-08-10 10:29:51.0881 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 10:29:51.1350 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 11:43:17.6162 Info Message Template Auto Format enabled
+2021-08-10 11:43:17.6266 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 11:43:17.6652 Info Adding target FileTarget(Name=alldata)
+2021-08-10 11:43:17.6652 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 11:43:17.7137 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 11:43:35.3625 Info Message Template Auto Format enabled
+2021-08-10 11:43:35.3625 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 11:43:35.3931 Info Adding target FileTarget(Name=alldata)
+2021-08-10 11:43:35.3931 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 11:43:35.4069 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\NLog.config
+2021-08-10 11:43:35.4172 Info Configuration initialized.
+2021-08-10 11:43:35.4172 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-08-10 11:43:36.0118 Info AppDomain Shutting down. Logger closing...
+2021-08-10 11:43:36.0249 Info Logger has been shut down.
+2021-08-10 11:44:01.5276 Info Message Template Auto Format enabled
+2021-08-10 11:44:01.5276 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 11:44:01.5577 Info Adding target FileTarget(Name=alldata)
+2021-08-10 11:44:01.5577 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 11:44:01.5577 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\NLog.config
+2021-08-10 11:44:01.5797 Info Configuration initialized.
+2021-08-10 11:44:01.5797 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-08-10 11:44:02.9112 Info AppDomain Shutting down. Logger closing...
+2021-08-10 11:44:02.9227 Info Logger has been shut down.
+2021-08-10 14:19:45.9766 Info Message Template Auto Format enabled
+2021-08-10 14:19:45.9868 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 14:19:46.0284 Info Adding target FileTarget(Name=alldata)
+2021-08-10 14:19:46.0368 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 14:19:46.0717 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 16:10:18.6876 Info Message Template Auto Format enabled
+2021-08-10 16:10:18.7011 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 16:10:18.7427 Info Adding target FileTarget(Name=alldata)
+2021-08-10 16:10:18.7427 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 16:10:18.7852 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 16:40:02.2421 Info Message Template Auto Format enabled
+2021-08-10 16:40:02.2523 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 16:40:02.3009 Info Adding target FileTarget(Name=alldata)
+2021-08-10 16:40:02.3009 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 16:40:02.3430 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 16:40:37.9405 Info Message Template Auto Format enabled
+2021-08-10 16:40:37.9405 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 16:40:37.9889 Info Adding target FileTarget(Name=alldata)
+2021-08-10 16:40:37.9889 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 16:40:38.0259 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 16:44:51.8126 Info Message Template Auto Format enabled
+2021-08-10 16:44:51.8289 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 16:44:51.8777 Info Adding target FileTarget(Name=alldata)
+2021-08-10 16:44:51.8777 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 16:44:51.9175 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 16:46:42.6438 Info Message Template Auto Format enabled
+2021-08-10 16:46:42.6634 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 16:46:42.7137 Info Adding target FileTarget(Name=alldata)
+2021-08-10 16:46:42.7256 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 16:46:42.7569 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 16:48:25.0874 Info Message Template Auto Format enabled
+2021-08-10 16:48:25.1010 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 16:48:25.2113 Info Adding target FileTarget(Name=alldata)
+2021-08-10 16:48:25.2216 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 16:48:25.2578 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-10 16:49:00.0727 Info Message Template Auto Format enabled
+2021-08-10 16:49:00.0824 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 16:49:00.1248 Info Adding target FileTarget(Name=alldata)
+2021-08-10 16:49:00.1314 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-10 16:49:00.1635 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-11 08:45:01.7585 Info Message Template Auto Format enabled
+2021-08-11 08:45:01.7798 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-11 08:45:01.8348 Info Adding target FileTarget(Name=alldata)
+2021-08-11 08:45:01.8348 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-11 08:45:01.8831 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-11 08:45:45.5842 Info Message Template Auto Format enabled
+2021-08-11 08:45:45.5842 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-11 08:45:45.6381 Info Adding target FileTarget(Name=alldata)
+2021-08-11 08:45:45.6449 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-11 08:45:45.6780 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-11 09:30:01.6651 Info Message Template Auto Format enabled
+2021-08-11 09:30:01.6771 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-11 09:30:01.7211 Info Adding target FileTarget(Name=alldata)
+2021-08-11 09:30:01.7211 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-11 09:30:01.7688 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-11 09:32:08.6169 Info Configuration file change detected! Reloading in 1000ms...
+2021-08-11 09:32:08.6169 Info Configuration file change detected! Reloading in 1000ms...
+2021-08-11 09:32:08.6169 Info Configuration file change detected! Reloading in 1000ms...
+2021-08-11 09:32:09.6412 Info Reloading configuration...
+2021-08-11 09:32:09.6430 Info Configuring from an XML element in D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config...
+2021-08-11 09:32:09.6430 Info Message Template Auto Format enabled
+2021-08-11 09:32:09.6430 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-11 09:32:09.6430 Info Adding target FileTarget(Name=alldata)
+2021-08-11 09:32:09.6430 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-11 09:32:09.6430 Info Closing old configuration.
+2021-08-11 09:32:09.6692 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-11 09:32:45.7978 Info Message Template Auto Format enabled
+2021-08-11 09:32:45.8020 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-11 09:32:45.8271 Info Adding target FileTarget(Name=alldata)
+2021-08-11 09:32:45.8271 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-11 09:32:45.8443 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\NLog.config
+2021-08-11 09:32:45.8555 Info Configuration initialized.
+2021-08-11 09:32:45.8555 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-08-11 09:32:46.4651 Info AppDomain Shutting down. Logger closing...
+2021-08-11 09:32:46.4767 Info Logger has been shut down.
+2021-08-11 09:35:01.2237 Info Message Template Auto Format enabled
+2021-08-11 09:35:01.2237 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-11 09:35:01.2514 Info Adding target FileTarget(Name=alldata)
+2021-08-11 09:35:01.2514 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-11 09:35:01.2514 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\NLog.config
+2021-08-11 09:35:01.2741 Info Configuration initialized.
+2021-08-11 09:35:01.2741 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-08-11 09:35:02.1938 Info AppDomain Shutting down. Logger closing...
+2021-08-11 09:35:02.1938 Info Logger has been shut down.
+2021-08-11 09:35:23.3026 Info Message Template Auto Format enabled
+2021-08-11 09:35:23.3290 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-11 09:35:23.3801 Info Adding target FileTarget(Name=alldata)
+2021-08-11 09:35:23.3801 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-11 09:35:23.4196 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-12 08:38:19.1222 Info Message Template Auto Format enabled
+2021-08-12 08:38:19.1411 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-12 08:38:19.2159 Info Adding target FileTarget(Name=alldata)
+2021-08-12 08:38:19.2159 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-12 08:38:19.2543 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-12 10:19:42.9039 Info Message Template Auto Format enabled
+2021-08-12 10:19:42.9039 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-12 10:19:42.9543 Info Adding target FileTarget(Name=alldata)
+2021-08-12 10:19:42.9543 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-12 10:19:42.9907 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-12 10:21:06.0869 Info Message Template Auto Format enabled
+2021-08-12 10:21:06.0978 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-12 10:21:06.1338 Info Adding target FileTarget(Name=alldata)
+2021-08-12 10:21:06.1410 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-12 10:21:06.1677 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-12 10:22:12.0779 Info Message Template Auto Format enabled
+2021-08-12 10:22:12.0874 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-12 10:22:12.1301 Info Adding target FileTarget(Name=alldata)
+2021-08-12 10:22:12.1381 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-12 10:22:12.1689 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-12 10:24:34.0298 Info Message Template Auto Format enabled
+2021-08-12 10:24:34.0421 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-12 10:24:34.0906 Info Adding target FileTarget(Name=alldata)
+2021-08-12 10:24:34.0906 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-12 10:24:34.1337 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-12 10:41:41.9338 Info Message Template Auto Format enabled
+2021-08-12 10:41:41.9479 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-12 10:41:41.9935 Info Adding target FileTarget(Name=alldata)
+2021-08-12 10:41:41.9935 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-12 10:41:42.0364 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-12 14:10:50.4672 Info Message Template Auto Format enabled
+2021-08-12 14:10:50.5365 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-12 14:10:50.6221 Info Adding target FileTarget(Name=alldata)
+2021-08-12 14:10:50.6221 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-12 14:10:50.6666 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-12 14:29:17.5321 Info Message Template Auto Format enabled
+2021-08-12 14:29:17.5474 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-12 14:29:17.6033 Info Adding target FileTarget(Name=alldata)
+2021-08-12 14:29:17.6033 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-12 14:29:17.6606 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-12 14:30:12.7910 Info Message Template Auto Format enabled
+2021-08-12 14:30:12.8025 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-12 14:30:12.8652 Info Adding target FileTarget(Name=alldata)
+2021-08-12 14:30:12.8735 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-12 14:30:12.9137 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-12 14:32:43.8583 Info Message Template Auto Format enabled
+2021-08-12 14:32:43.8583 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-12 14:32:43.9133 Info Adding target FileTarget(Name=alldata)
+2021-08-12 14:32:43.9204 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-12 14:32:43.9532 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-12 14:36:26.3286 Info Message Template Auto Format enabled
+2021-08-12 14:36:26.3387 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-12 14:36:26.3808 Info Adding target FileTarget(Name=alldata)
+2021-08-12 14:36:26.3899 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-12 14:36:26.4240 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-12 14:41:44.3137 Info Message Template Auto Format enabled
+2021-08-12 14:41:44.3253 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-12 14:41:44.3647 Info Adding target FileTarget(Name=alldata)
+2021-08-12 14:41:44.3714 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-12 14:41:44.3989 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-12 15:27:13.5627 Info Message Template Auto Format enabled
+2021-08-12 15:27:13.5757 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-12 15:27:13.6275 Info Adding target FileTarget(Name=alldata)
+2021-08-12 15:27:13.6352 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-12 15:27:13.6639 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-12 17:02:36.7195 Info Message Template Auto Format enabled
+2021-08-12 17:02:36.7310 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-12 17:02:36.7838 Info Adding target FileTarget(Name=alldata)
+2021-08-12 17:02:36.7921 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-12 17:02:36.8205 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-12 17:04:37.2138 Info Message Template Auto Format enabled
+2021-08-12 17:04:37.2138 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-12 17:04:37.2801 Info Adding target FileTarget(Name=alldata)
+2021-08-12 17:04:37.2911 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-12 17:04:37.3256 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-13 08:36:02.0201 Info Message Template Auto Format enabled
+2021-08-13 08:36:02.0362 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-13 08:36:02.0900 Info Adding target FileTarget(Name=alldata)
+2021-08-13 08:36:02.0900 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-13 08:36:02.1310 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-13 08:38:49.6717 Info Message Template Auto Format enabled
+2021-08-13 08:38:49.6823 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-13 08:38:49.7301 Info Adding target FileTarget(Name=alldata)
+2021-08-13 08:38:49.7301 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-13 08:38:49.7688 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-13 11:07:32.3138 Info Message Template Auto Format enabled
+2021-08-13 11:07:32.3278 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-13 11:07:32.3779 Info Adding target FileTarget(Name=alldata)
+2021-08-13 11:07:32.3887 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-13 11:07:32.4287 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-13 11:19:03.5247 Info Message Template Auto Format enabled
+2021-08-13 11:19:03.5348 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-13 11:19:03.5818 Info Adding target FileTarget(Name=alldata)
+2021-08-13 11:19:03.5888 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-13 11:19:03.6231 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-13 11:20:51.8432 Info Message Template Auto Format enabled
+2021-08-13 11:20:51.8559 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-13 11:20:51.8999 Info Adding target FileTarget(Name=alldata)
+2021-08-13 11:20:52.0110 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-13 11:20:52.1045 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-13 14:13:32.2899 Info Message Template Auto Format enabled
+2021-08-13 14:13:32.2999 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-13 14:13:32.3476 Info Adding target FileTarget(Name=alldata)
+2021-08-13 14:13:32.3548 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-13 14:13:32.3999 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-13 15:11:48.8402 Info Message Template Auto Format enabled
+2021-08-13 15:11:48.8402 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-13 15:11:48.8977 Info Adding target FileTarget(Name=alldata)
+2021-08-13 15:11:48.9069 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-13 15:11:48.9468 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-13 15:23:37.8973 Info Message Template Auto Format enabled
+2021-08-13 15:23:37.9092 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-13 15:23:37.9603 Info Adding target FileTarget(Name=alldata)
+2021-08-13 15:23:37.9787 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-13 15:23:38.0174 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-13 15:45:07.5421 Info Message Template Auto Format enabled
+2021-08-13 15:45:07.5421 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-13 15:45:07.5976 Info Adding target FileTarget(Name=alldata)
+2021-08-13 15:45:07.6052 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-13 15:45:07.6321 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-13 15:46:09.3817 Info Message Template Auto Format enabled
+2021-08-13 15:46:09.3927 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-13 15:46:09.4364 Info Adding target FileTarget(Name=alldata)
+2021-08-13 15:46:09.4364 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-13 15:46:09.4737 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-13 15:51:37.3837 Info Message Template Auto Format enabled
+2021-08-13 15:51:37.3964 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-13 15:51:37.4413 Info Adding target FileTarget(Name=alldata)
+2021-08-13 15:51:37.4519 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-13 15:51:37.4883 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-13 15:54:51.9677 Info Message Template Auto Format enabled
+2021-08-13 15:54:51.9782 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-13 15:54:52.0277 Info Adding target FileTarget(Name=alldata)
+2021-08-13 15:54:52.0277 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-13 15:54:52.0730 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-13 16:00:47.9288 Info Message Template Auto Format enabled
+2021-08-13 16:00:47.9421 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-13 16:00:48.0037 Info Adding target FileTarget(Name=alldata)
+2021-08-13 16:00:48.0122 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-13 16:00:48.0405 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-13 16:21:07.7837 Info Message Template Auto Format enabled
+2021-08-13 16:21:07.7989 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-13 16:21:07.8447 Info Adding target FileTarget(Name=alldata)
+2021-08-13 16:21:07.8551 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-13 16:21:07.8840 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 09:39:54.9525 Info Message Template Auto Format enabled
+2021-08-16 09:39:54.9870 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 09:39:55.0119 Info Adding target FileTarget(Name=alldata)
+2021-08-16 09:39:55.0119 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 09:39:55.0257 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\NLog.config
+2021-08-16 09:39:55.0511 Info Configuration initialized.
+2021-08-16 09:39:55.0511 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-08-16 09:39:55.9505 Info AppDomain Shutting down. Logger closing...
+2021-08-16 09:39:55.9505 Info Logger has been shut down.
+2021-08-16 09:40:48.9360 Info Message Template Auto Format enabled
+2021-08-16 09:40:48.9360 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 09:40:48.9666 Info Adding target FileTarget(Name=alldata)
+2021-08-16 09:40:48.9666 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 09:40:48.9808 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\NLog.config
+2021-08-16 09:40:48.9808 Info Configuration initialized.
+2021-08-16 09:40:48.9808 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-08-16 09:40:50.5557 Info AppDomain Shutting down. Logger closing...
+2021-08-16 09:40:50.5557 Info Logger has been shut down.
+2021-08-16 09:43:35.9096 Info Message Template Auto Format enabled
+2021-08-16 09:43:35.9665 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 09:43:36.0427 Info Adding target FileTarget(Name=alldata)
+2021-08-16 09:43:36.1233 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 09:43:36.2241 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 09:53:39.4132 Info Message Template Auto Format enabled
+2021-08-16 09:53:39.4395 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 09:53:39.5029 Info Adding target FileTarget(Name=alldata)
+2021-08-16 09:53:39.5093 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 09:53:39.5388 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 09:54:40.0996 Info Message Template Auto Format enabled
+2021-08-16 09:54:40.1353 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 09:54:40.1806 Info Adding target FileTarget(Name=alldata)
+2021-08-16 09:54:40.1806 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 09:54:40.2227 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 09:59:34.8729 Info Message Template Auto Format enabled
+2021-08-16 09:59:34.8879 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 09:59:34.9417 Info Adding target FileTarget(Name=alldata)
+2021-08-16 09:59:34.9507 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 09:59:34.9817 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 10:09:45.5141 Info Message Template Auto Format enabled
+2021-08-16 10:09:45.5141 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 10:09:45.5645 Info Adding target FileTarget(Name=alldata)
+2021-08-16 10:09:45.5645 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 10:09:45.5825 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 10:12:24.9347 Info Message Template Auto Format enabled
+2021-08-16 10:12:24.9494 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 10:12:25.0189 Info Adding target FileTarget(Name=alldata)
+2021-08-16 10:12:25.0310 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 10:12:25.0650 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 10:13:40.2177 Info Message Template Auto Format enabled
+2021-08-16 10:13:40.2292 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 10:13:40.2790 Info Adding target FileTarget(Name=alldata)
+2021-08-16 10:13:40.2927 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 10:13:40.3282 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 10:46:06.7415 Info Message Template Auto Format enabled
+2021-08-16 10:46:06.7546 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 10:46:06.8018 Info Adding target FileTarget(Name=alldata)
+2021-08-16 10:46:06.8079 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 10:46:06.8425 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 10:46:32.9749 Info Message Template Auto Format enabled
+2021-08-16 10:46:32.9818 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 10:46:33.0279 Info Adding target FileTarget(Name=alldata)
+2021-08-16 10:46:33.0279 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 10:46:33.0458 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 10:51:41.6618 Info Message Template Auto Format enabled
+2021-08-16 10:51:41.6749 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 10:51:41.7198 Info Adding target FileTarget(Name=alldata)
+2021-08-16 10:51:41.7198 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 10:51:41.7595 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 11:04:07.7575 Info Message Template Auto Format enabled
+2021-08-16 11:04:07.7728 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 11:04:07.8221 Info Adding target FileTarget(Name=alldata)
+2021-08-16 11:04:07.8369 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 11:04:07.8720 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 11:12:52.5178 Info Message Template Auto Format enabled
+2021-08-16 11:12:52.5288 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 11:12:52.5756 Info Adding target FileTarget(Name=alldata)
+2021-08-16 11:12:52.5756 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 11:12:52.6141 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 11:13:11.3449 Info Message Template Auto Format enabled
+2021-08-16 11:13:11.3570 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 11:13:11.4050 Info Adding target FileTarget(Name=alldata)
+2021-08-16 11:13:11.4050 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 11:13:11.4539 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 11:14:06.9975 Info Message Template Auto Format enabled
+2021-08-16 11:14:07.0116 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 11:14:07.0681 Info Adding target FileTarget(Name=alldata)
+2021-08-16 11:14:07.0763 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 11:14:07.1135 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 11:17:43.4702 Info Message Template Auto Format enabled
+2021-08-16 11:17:43.4870 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 11:17:43.5410 Info Adding target FileTarget(Name=alldata)
+2021-08-16 11:17:43.5410 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 11:17:43.5817 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 11:35:36.1244 Info Message Template Auto Format enabled
+2021-08-16 11:35:36.1377 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 11:35:36.1824 Info Adding target FileTarget(Name=alldata)
+2021-08-16 11:35:36.1998 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 11:35:36.2324 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 11:37:19.2162 Info Message Template Auto Format enabled
+2021-08-16 11:37:19.2344 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 11:37:19.2908 Info Adding target FileTarget(Name=alldata)
+2021-08-16 11:37:19.2908 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 11:37:19.3273 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 13:42:26.0318 Info Message Template Auto Format enabled
+2021-08-16 13:42:26.0431 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 13:42:26.0947 Info Adding target FileTarget(Name=alldata)
+2021-08-16 13:42:26.0947 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 13:42:26.1308 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 13:49:40.8398 Info Message Template Auto Format enabled
+2021-08-16 13:49:40.8561 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 13:49:40.9062 Info Adding target FileTarget(Name=alldata)
+2021-08-16 13:49:40.9062 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 13:49:40.9426 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 15:22:02.7351 Info Message Template Auto Format enabled
+2021-08-16 15:22:02.7504 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 15:22:02.7950 Info Adding target FileTarget(Name=alldata)
+2021-08-16 15:22:02.7950 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 15:22:02.8305 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 15:28:58.6045 Info Message Template Auto Format enabled
+2021-08-16 15:28:58.6045 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 15:28:58.6542 Info Adding target FileTarget(Name=alldata)
+2021-08-16 15:28:58.6542 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 15:28:58.6913 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 15:47:01.4062 Info Message Template Auto Format enabled
+2021-08-16 15:47:01.4284 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 15:47:01.4888 Info Adding target FileTarget(Name=alldata)
+2021-08-16 15:47:01.4983 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 15:47:01.5355 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 15:48:12.6106 Info Message Template Auto Format enabled
+2021-08-16 15:48:12.6234 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 15:48:12.6717 Info Adding target FileTarget(Name=alldata)
+2021-08-16 15:48:12.6937 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 15:48:12.7268 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 15:48:54.7896 Info Message Template Auto Format enabled
+2021-08-16 15:48:54.8036 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 15:48:54.8450 Info Adding target FileTarget(Name=alldata)
+2021-08-16 15:48:54.8602 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 15:48:54.8949 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 15:49:33.1758 Info Message Template Auto Format enabled
+2021-08-16 15:49:33.1901 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 15:49:33.2373 Info Adding target FileTarget(Name=alldata)
+2021-08-16 15:49:33.2572 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 15:49:33.2900 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 15:50:04.3942 Info Message Template Auto Format enabled
+2021-08-16 15:50:04.4113 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 15:50:04.4518 Info Adding target FileTarget(Name=alldata)
+2021-08-16 15:50:04.4518 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 15:50:04.4917 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 15:54:05.8581 Info Message Template Auto Format enabled
+2021-08-16 15:54:05.8707 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 15:54:05.9120 Info Adding target FileTarget(Name=alldata)
+2021-08-16 15:54:05.9192 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 15:54:05.9494 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 16:00:34.6364 Info Message Template Auto Format enabled
+2021-08-16 16:00:34.6364 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 16:00:34.6901 Info Adding target FileTarget(Name=alldata)
+2021-08-16 16:00:34.6975 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 16:00:34.7272 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 16:05:14.2918 Info Message Template Auto Format enabled
+2021-08-16 16:05:14.2918 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 16:05:14.3520 Info Adding target FileTarget(Name=alldata)
+2021-08-16 16:05:14.3603 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 16:05:14.3951 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 16:06:07.4909 Info Message Template Auto Format enabled
+2021-08-16 16:06:07.5030 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 16:06:07.5592 Info Adding target FileTarget(Name=alldata)
+2021-08-16 16:06:07.5592 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 16:06:07.6029 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 16:06:52.7812 Info Message Template Auto Format enabled
+2021-08-16 16:06:52.7931 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 16:06:52.8427 Info Adding target FileTarget(Name=alldata)
+2021-08-16 16:06:52.8427 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 16:06:52.8774 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 16:07:18.5025 Info Message Template Auto Format enabled
+2021-08-16 16:07:18.5144 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 16:07:18.5575 Info Adding target FileTarget(Name=alldata)
+2021-08-16 16:07:18.5575 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 16:07:18.5910 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 16:08:06.3369 Info Message Template Auto Format enabled
+2021-08-16 16:08:06.3494 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 16:08:06.3898 Info Adding target FileTarget(Name=alldata)
+2021-08-16 16:08:06.3898 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 16:08:06.4301 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 16:19:06.3235 Info Message Template Auto Format enabled
+2021-08-16 16:19:06.3235 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 16:19:06.3897 Info Adding target FileTarget(Name=alldata)
+2021-08-16 16:19:06.4021 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 16:19:06.4328 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 16:35:55.4563 Info Message Template Auto Format enabled
+2021-08-16 16:35:55.4665 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 16:35:55.5249 Info Adding target FileTarget(Name=alldata)
+2021-08-16 16:35:55.5249 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 16:35:55.5673 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 16:39:49.2194 Info Message Template Auto Format enabled
+2021-08-16 16:39:49.2311 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 16:39:49.2871 Info Adding target FileTarget(Name=alldata)
+2021-08-16 16:39:49.2946 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 16:39:49.3261 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 16:44:57.8323 Info Message Template Auto Format enabled
+2021-08-16 16:44:57.8448 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 16:44:57.8843 Info Adding target FileTarget(Name=alldata)
+2021-08-16 16:44:57.8843 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 16:44:57.9354 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 16:54:00.2786 Info Message Template Auto Format enabled
+2021-08-16 16:54:00.2897 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 16:54:00.3624 Info Adding target FileTarget(Name=alldata)
+2021-08-16 16:54:00.3704 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 16:54:00.4014 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 17:12:10.6381 Info Message Template Auto Format enabled
+2021-08-16 17:12:10.6511 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 17:12:10.6987 Info Adding target FileTarget(Name=alldata)
+2021-08-16 17:12:10.6987 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 17:12:10.7466 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 17:32:07.6625 Info Message Template Auto Format enabled
+2021-08-16 17:32:07.6744 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 17:32:07.7143 Info Adding target FileTarget(Name=alldata)
+2021-08-16 17:32:07.7143 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 17:32:07.7485 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 17:38:18.3343 Info Message Template Auto Format enabled
+2021-08-16 17:38:18.3468 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 17:38:18.4020 Info Adding target FileTarget(Name=alldata)
+2021-08-16 17:38:18.4020 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 17:38:18.4379 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 17:44:48.8150 Info Message Template Auto Format enabled
+2021-08-16 17:44:48.8267 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 17:44:48.8686 Info Adding target FileTarget(Name=alldata)
+2021-08-16 17:44:48.8686 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 17:44:48.9068 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 17:45:22.6998 Info Message Template Auto Format enabled
+2021-08-16 17:45:22.6998 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 17:45:22.7534 Info Adding target FileTarget(Name=alldata)
+2021-08-16 17:45:22.7605 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 17:45:22.7881 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 17:48:07.4780 Info Message Template Auto Format enabled
+2021-08-16 17:48:07.4780 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 17:48:07.5324 Info Adding target FileTarget(Name=alldata)
+2021-08-16 17:48:07.5487 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 17:48:07.5792 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 17:51:59.1399 Info Message Template Auto Format enabled
+2021-08-16 17:51:59.1509 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 17:51:59.2037 Info Adding target FileTarget(Name=alldata)
+2021-08-16 17:51:59.2037 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 17:51:59.2489 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 17:52:22.5804 Info Message Template Auto Format enabled
+2021-08-16 17:52:22.5909 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 17:52:22.6351 Info Adding target FileTarget(Name=alldata)
+2021-08-16 17:52:22.6351 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 17:52:22.6707 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-16 18:00:33.4423 Info Message Template Auto Format enabled
+2021-08-16 18:00:33.4560 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 18:00:33.4954 Info Adding target FileTarget(Name=alldata)
+2021-08-16 18:00:33.4954 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-16 18:00:33.5289 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-17 08:27:35.6643 Info Message Template Auto Format enabled
+2021-08-17 08:27:35.6643 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-17 08:27:35.6989 Info Adding target FileTarget(Name=alldata)
+2021-08-17 08:27:35.6989 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-17 08:27:35.7127 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\NLog.config
+2021-08-17 08:27:35.7127 Info Configuration initialized.
+2021-08-17 08:27:35.7127 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-08-17 08:27:36.2521 Info AppDomain Shutting down. Logger closing...
+2021-08-17 08:27:36.2648 Info Logger has been shut down.
+2021-08-17 08:28:12.1136 Info Message Template Auto Format enabled
+2021-08-17 08:28:12.1136 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-17 08:28:12.1434 Info Adding target FileTarget(Name=alldata)
+2021-08-17 08:28:12.1434 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-17 08:28:12.1593 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\NLog.config
+2021-08-17 08:28:12.1593 Info Configuration initialized.
+2021-08-17 08:28:12.1593 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-08-17 08:28:13.0425 Info AppDomain Shutting down. Logger closing...
+2021-08-17 08:28:13.0425 Info Logger has been shut down.
+2021-08-17 08:29:13.3452 Info Message Template Auto Format enabled
+2021-08-17 08:29:13.3552 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-17 08:29:13.3971 Info Adding target FileTarget(Name=alldata)
+2021-08-17 08:29:13.4036 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-17 08:29:13.4323 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-17 08:53:15.4474 Info Message Template Auto Format enabled
+2021-08-17 08:53:15.4720 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-17 08:53:15.5339 Info Adding target FileTarget(Name=alldata)
+2021-08-17 08:53:15.5463 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-17 08:53:15.5852 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-17 09:45:50.4738 Info Message Template Auto Format enabled
+2021-08-17 09:45:50.4903 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-17 09:45:50.5792 Info Adding target FileTarget(Name=alldata)
+2021-08-17 09:45:50.5909 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-17 09:45:50.6605 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-17 09:59:29.2619 Info Message Template Auto Format enabled
+2021-08-17 09:59:29.2958 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-17 09:59:29.3575 Info Adding target FileTarget(Name=alldata)
+2021-08-17 09:59:29.3694 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-17 09:59:29.4107 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-17 09:59:57.1909 Info Message Template Auto Format enabled
+2021-08-17 09:59:57.2025 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-17 09:59:57.2456 Info Adding target FileTarget(Name=alldata)
+2021-08-17 09:59:57.2456 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-17 09:59:57.2799 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-17 10:00:38.9125 Info Message Template Auto Format enabled
+2021-08-17 10:00:38.9238 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-17 10:00:38.9695 Info Adding target FileTarget(Name=alldata)
+2021-08-17 10:00:38.9784 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-17 10:00:39.0193 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-17 10:06:57.5762 Info Message Template Auto Format enabled
+2021-08-17 10:06:57.5908 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-17 10:06:57.6348 Info Adding target FileTarget(Name=alldata)
+2021-08-17 10:06:57.6348 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-17 10:06:57.6739 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-17 10:09:06.5815 Info Message Template Auto Format enabled
+2021-08-17 10:09:06.6023 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-17 10:09:06.6624 Info Adding target FileTarget(Name=alldata)
+2021-08-17 10:09:06.6762 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-17 10:09:06.7177 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-17 10:32:36.4305 Info Message Template Auto Format enabled
+2021-08-17 10:32:36.4443 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-17 10:32:36.4941 Info Adding target FileTarget(Name=alldata)
+2021-08-17 10:32:36.4941 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-17 10:32:36.5407 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-17 10:36:13.5641 Info Message Template Auto Format enabled
+2021-08-17 10:36:13.5714 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-17 10:36:13.6154 Info Adding target FileTarget(Name=alldata)
+2021-08-17 10:36:13.6154 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-17 10:36:13.6369 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-17 11:19:14.4459 Info Message Template Auto Format enabled
+2021-08-17 11:19:14.4603 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-17 11:19:14.5306 Info Adding target FileTarget(Name=alldata)
+2021-08-17 11:19:14.5506 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-17 11:19:14.6002 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-17 14:16:07.0055 Info Message Template Auto Format enabled
+2021-08-17 14:16:07.0197 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-17 14:16:07.0681 Info Adding target FileTarget(Name=alldata)
+2021-08-17 14:16:07.0814 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-17 14:16:07.1353 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-17 14:20:50.6140 Info Message Template Auto Format enabled
+2021-08-17 14:20:50.6286 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-17 14:20:50.6879 Info Adding target FileTarget(Name=alldata)
+2021-08-17 14:20:50.6971 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-17 14:20:50.7326 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-17 14:38:31.3445 Info Message Template Auto Format enabled
+2021-08-17 14:38:31.3610 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-17 14:38:31.4056 Info Adding target FileTarget(Name=alldata)
+2021-08-17 14:38:31.4155 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-17 14:38:31.4462 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-18 09:13:14.8753 Info Message Template Auto Format enabled
+2021-08-18 09:13:14.8887 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-18 09:13:14.9368 Info Adding target FileTarget(Name=alldata)
+2021-08-18 09:13:14.9487 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-18 09:13:14.9858 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-18 11:02:05.1156 Info Message Template Auto Format enabled
+2021-08-18 11:02:05.1302 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-18 11:02:05.2117 Info Adding target FileTarget(Name=alldata)
+2021-08-18 11:02:05.2255 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-18 11:02:05.2775 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BCXN\bcxn_bi-be\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-19 15:02:12.4423 Info Message Template Auto Format enabled
+2021-08-19 15:02:12.4642 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-19 15:02:12.9291 Info Adding target FileTarget(Name=alldata)
+2021-08-19 15:02:12.9573 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-19 15:02:13.0080 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-19 15:03:04.0948 Info Shutdown() called. Logger closing...
+2021-08-19 15:03:04.0948 Info Closing old configuration.
+2021-08-19 15:03:04.1063 Info Logger has been closed down.
+2021-08-19 15:04:16.0514 Info Message Template Auto Format enabled
+2021-08-19 15:04:16.0725 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-19 15:04:16.1752 Info Adding target FileTarget(Name=alldata)
+2021-08-19 15:04:16.2025 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-19 15:04:16.2905 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-19 15:07:48.3580 Info Message Template Auto Format enabled
+2021-08-19 15:07:48.3860 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-19 15:07:48.7434 Info Adding target FileTarget(Name=alldata)
+2021-08-19 15:07:48.7730 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-19 15:07:48.8534 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-19 19:08:25.4501 Info Message Template Auto Format enabled
+2021-08-19 19:08:25.4699 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-19 19:08:25.5512 Info Adding target FileTarget(Name=alldata)
+2021-08-19 19:08:25.5693 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-19 19:08:25.6536 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-19 19:12:51.0259 Info Message Template Auto Format enabled
+2021-08-19 19:12:51.0520 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-19 19:12:51.1101 Info Adding target FileTarget(Name=alldata)
+2021-08-19 19:12:51.1245 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-19 19:12:51.1724 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-19 19:13:35.8140 Info Message Template Auto Format enabled
+2021-08-19 19:13:35.8481 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-19 19:13:35.9226 Info Adding target FileTarget(Name=alldata)
+2021-08-19 19:13:35.9381 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-19 19:13:36.0764 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-19 19:15:58.6244 Info Message Template Auto Format enabled
+2021-08-19 19:15:58.6466 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-19 19:15:58.7162 Info Adding target FileTarget(Name=alldata)
+2021-08-19 19:15:58.7625 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-19 19:15:58.8314 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-19 19:19:24.3518 Info Message Template Auto Format enabled
+2021-08-19 19:19:24.3715 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-19 19:19:24.4565 Info Adding target FileTarget(Name=alldata)
+2021-08-19 19:19:24.4851 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-19 19:19:24.5457 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-19 19:21:46.2265 Info Message Template Auto Format enabled
+2021-08-19 19:21:46.2581 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-19 19:21:46.3202 Info Adding target FileTarget(Name=alldata)
+2021-08-19 19:21:46.3416 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-19 19:21:46.4234 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-19 20:30:21.2171 Info Message Template Auto Format enabled
+2021-08-19 20:30:21.2320 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-19 20:30:21.2804 Info Adding target FileTarget(Name=alldata)
+2021-08-19 20:30:21.2909 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-19 20:30:21.3362 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-19 21:54:11.6538 Info Message Template Auto Format enabled
+2021-08-19 21:54:11.7178 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-19 21:54:11.8049 Info Adding target FileTarget(Name=alldata)
+2021-08-19 21:54:11.8288 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-19 21:54:11.8864 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-19 22:46:20.3329 Info Message Template Auto Format enabled
+2021-08-19 22:46:20.3856 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-19 22:46:20.4604 Info Adding target FileTarget(Name=alldata)
+2021-08-19 22:46:20.4813 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-19 22:46:20.5591 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-20 00:28:14.2417 Info Message Template Auto Format enabled
+2021-08-20 00:28:14.2625 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-20 00:28:14.3287 Info Adding target FileTarget(Name=alldata)
+2021-08-20 00:28:14.3460 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-20 00:28:14.4320 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-20 00:35:49.6775 Info Message Template Auto Format enabled
+2021-08-20 00:35:49.7104 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-20 00:35:49.8826 Info Adding target FileTarget(Name=alldata)
+2021-08-20 00:35:49.9157 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-20 00:35:49.9980 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-20 11:03:11.3042 Info Message Template Auto Format enabled
+2021-08-20 11:03:11.3352 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-20 11:03:11.4164 Info Adding target FileTarget(Name=alldata)
+2021-08-20 11:03:11.4424 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-20 11:03:11.5255 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-20 11:15:43.9509 Info Message Template Auto Format enabled
+2021-08-20 11:15:43.9677 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-20 11:15:44.0566 Info Adding target FileTarget(Name=alldata)
+2021-08-20 11:15:44.0778 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-20 11:15:44.1503 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-20 11:34:23.7018 Info Message Template Auto Format enabled
+2021-08-20 11:34:23.7287 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-20 11:34:23.8168 Info Adding target FileTarget(Name=alldata)
+2021-08-20 11:34:23.8450 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-20 11:34:23.8992 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-20 11:46:05.5506 Info Message Template Auto Format enabled
+2021-08-20 11:46:05.6060 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-20 11:46:05.7245 Info Adding target FileTarget(Name=alldata)
+2021-08-20 11:46:05.7522 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-20 11:46:05.8341 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-20 11:53:53.8589 Info Message Template Auto Format enabled
+2021-08-20 11:53:53.8749 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-20 11:53:53.9513 Info Adding target FileTarget(Name=alldata)
+2021-08-20 11:53:53.9738 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-20 11:53:54.0302 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-20 19:25:06.7161 Info Message Template Auto Format enabled
+2021-08-20 19:25:06.7846 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-20 19:25:06.8413 Info Adding target FileTarget(Name=alldata)
+2021-08-20 19:25:06.8609 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-20 19:25:06.9165 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-24 08:48:55.2573 Info Message Template Auto Format enabled
+2021-08-24 08:48:55.2800 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-24 08:48:55.3584 Info Adding target FileTarget(Name=alldata)
+2021-08-24 08:48:55.3828 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-24 08:48:55.4392 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-24 09:00:09.8597 Info Message Template Auto Format enabled
+2021-08-24 09:00:09.8830 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-24 09:00:09.9889 Info Adding target FileTarget(Name=alldata)
+2021-08-24 09:00:10.0053 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-24 09:00:10.0671 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-24 09:23:02.5167 Info Message Template Auto Format enabled
+2021-08-24 09:23:02.5353 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-24 09:23:02.5873 Info Adding target FileTarget(Name=alldata)
+2021-08-24 09:23:02.6052 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-24 09:23:02.6505 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-24 09:39:49.1724 Info Message Template Auto Format enabled
+2021-08-24 09:39:49.2035 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-24 09:39:49.3389 Info Adding target FileTarget(Name=alldata)
+2021-08-24 09:39:49.3542 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-24 09:39:49.4130 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-24 09:41:10.5239 Info Message Template Auto Format enabled
+2021-08-24 09:41:10.5495 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-24 09:41:10.6234 Info Adding target FileTarget(Name=alldata)
+2021-08-24 09:41:10.6477 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-24 09:41:10.7206 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-08-24 09:48:34.2064 Info Message Template Auto Format enabled
+2021-08-24 09:48:34.2413 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-24 09:48:34.3554 Info Adding target FileTarget(Name=alldata)
+2021-08-24 09:48:34.3684 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-24 09:48:34.4123 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-09-23 14:49:02.9249 Info Message Template Auto Format enabled
+2021-09-23 14:49:02.9523 Info Loading assembly: NLog.Web.AspNetCore
+2021-09-23 14:49:03.0313 Info Adding target FileTarget(Name=alldata)
+2021-09-23 14:49:03.0448 Info Adding target FileTarget(Name=otherFile-web)
+2021-09-23 14:49:03.0971 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-09-23 14:49:24.6328 Info Shutdown() called. Logger closing...
+2021-09-23 14:49:24.6328 Info Closing old configuration.
+2021-09-23 14:49:24.6447 Info Logger has been closed down.
+2021-09-23 15:06:07.1179 Info Message Template Auto Format enabled
+2021-09-23 15:06:07.1393 Info Loading assembly: NLog.Web.AspNetCore
+2021-09-23 15:06:07.2080 Info Adding target FileTarget(Name=alldata)
+2021-09-23 15:06:07.2230 Info Adding target FileTarget(Name=otherFile-web)
+2021-09-23 15:06:07.2778 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-09-23 15:14:18.8641 Info Configuration file change detected! Reloading in 1000ms...
+2021-09-23 15:14:18.8641 Info Configuration file change detected! Reloading in 1000ms...
+2021-09-23 15:14:18.8641 Info Configuration file change detected! Reloading in 1000ms...
+2021-09-23 15:14:19.8720 Info Reloading configuration...
+2021-09-23 15:14:19.8720 Info Configuring from an XML element in D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config...
+2021-09-23 15:14:19.8720 Info Message Template Auto Format enabled
+2021-09-23 15:14:19.8720 Info Loading assembly: NLog.Web.AspNetCore
+2021-09-23 15:14:19.8720 Info Adding target FileTarget(Name=alldata)
+2021-09-23 15:14:19.8720 Info Adding target FileTarget(Name=otherFile-web)
+2021-09-23 15:14:19.8720 Info Closing old configuration.
+2021-09-23 15:14:19.8959 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-09-23 19:09:57.3145 Info Message Template Auto Format enabled
+2021-09-23 19:09:57.3969 Info Loading assembly: NLog.Web.AspNetCore
+2021-09-23 19:09:57.4791 Info Adding target FileTarget(Name=alldata)
+2021-09-23 19:09:57.5017 Info Adding target FileTarget(Name=otherFile-web)
+2021-09-23 19:09:57.5543 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-09-28 13:31:28.3461 Info Message Template Auto Format enabled
+2021-09-28 13:31:28.3794 Info Loading assembly: NLog.Web.AspNetCore
+2021-09-28 13:31:28.4710 Info Adding target FileTarget(Name=alldata)
+2021-09-28 13:31:28.4895 Info Adding target FileTarget(Name=otherFile-web)
+2021-09-28 13:31:28.5524 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-09-28 14:35:36.7551 Info Message Template Auto Format enabled
+2021-09-28 14:35:36.7832 Info Loading assembly: NLog.Web.AspNetCore
+2021-09-28 14:35:36.8685 Info Adding target FileTarget(Name=alldata)
+2021-09-28 14:35:36.8988 Info Adding target FileTarget(Name=otherFile-web)
+2021-09-28 14:35:36.9558 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-09-28 14:43:06.5424 Info Message Template Auto Format enabled
+2021-09-28 14:43:06.5586 Info Loading assembly: NLog.Web.AspNetCore
+2021-09-28 14:43:06.6240 Info Adding target FileTarget(Name=alldata)
+2021-09-28 14:43:06.6400 Info Adding target FileTarget(Name=otherFile-web)
+2021-09-28 14:43:06.7168 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-09-28 14:44:28.7860 Info Message Template Auto Format enabled
+2021-09-28 14:44:28.8104 Info Loading assembly: NLog.Web.AspNetCore
+2021-09-28 14:44:28.8852 Info Adding target FileTarget(Name=alldata)
+2021-09-28 14:44:29.2685 Info Adding target FileTarget(Name=otherFile-web)
+2021-09-28 14:44:29.3738 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-09-28 16:36:35.0800 Info Message Template Auto Format enabled
+2021-09-28 16:36:35.1147 Info Loading assembly: NLog.Web.AspNetCore
+2021-09-28 16:36:35.1766 Info Adding target FileTarget(Name=alldata)
+2021-09-28 16:36:35.1940 Info Adding target FileTarget(Name=otherFile-web)
+2021-09-28 16:36:35.2445 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-09-28 17:40:57.5152 Info Message Template Auto Format enabled
+2021-09-28 17:40:57.5497 Info Loading assembly: NLog.Web.AspNetCore
+2021-09-28 17:40:57.6220 Info Adding target FileTarget(Name=alldata)
+2021-09-28 17:40:57.6220 Info Adding target FileTarget(Name=otherFile-web)
+2021-09-28 17:40:57.6778 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-09-29 07:15:54.9744 Info Message Template Auto Format enabled
+2021-09-29 07:15:55.0226 Info Loading assembly: NLog.Web.AspNetCore
+2021-09-29 07:15:55.0804 Info Adding target FileTarget(Name=alldata)
+2021-09-29 07:15:55.0927 Info Adding target FileTarget(Name=otherFile-web)
+2021-09-29 07:15:55.1363 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-09-29 08:44:11.7006 Info Message Template Auto Format enabled
+2021-09-29 08:44:11.7537 Info Loading assembly: NLog.Web.AspNetCore
+2021-09-29 08:44:11.8856 Info Adding target FileTarget(Name=alldata)
+2021-09-29 08:44:11.9024 Info Adding target FileTarget(Name=otherFile-web)
+2021-09-29 08:44:11.9511 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-09-29 09:08:54.3672 Info Message Template Auto Format enabled
+2021-09-29 09:08:54.3830 Info Loading assembly: NLog.Web.AspNetCore
+2021-09-29 09:08:54.4531 Info Adding target FileTarget(Name=alldata)
+2021-09-29 09:08:54.4717 Info Adding target FileTarget(Name=otherFile-web)
+2021-09-29 09:08:54.5195 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-09-29 09:10:06.4739 Info Message Template Auto Format enabled
+2021-09-29 09:10:06.4882 Info Loading assembly: NLog.Web.AspNetCore
+2021-09-29 09:10:06.5312 Info Adding target FileTarget(Name=alldata)
+2021-09-29 09:10:06.5312 Info Adding target FileTarget(Name=otherFile-web)
+2021-09-29 09:10:06.5660 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-09-29 10:26:16.4615 Info Message Template Auto Format enabled
+2021-09-29 10:26:16.5208 Info Loading assembly: NLog.Web.AspNetCore
+2021-09-29 10:26:16.6138 Info Adding target FileTarget(Name=alldata)
+2021-09-29 10:26:16.6298 Info Adding target FileTarget(Name=otherFile-web)
+2021-09-29 10:26:16.6856 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-09-29 17:05:00.8684 Info Message Template Auto Format enabled
+2021-09-29 17:05:00.9029 Info Loading assembly: NLog.Web.AspNetCore
+2021-09-29 17:05:00.9566 Info Adding target FileTarget(Name=alldata)
+2021-09-29 17:05:00.9566 Info Adding target FileTarget(Name=otherFile-web)
+2021-09-29 17:05:00.9765 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\NLog.config
+2021-09-29 17:05:00.9867 Info Configuration initialized.
+2021-09-29 17:05:00.9867 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-09-29 17:05:02.1726 Info AppDomain Shutting down. Logger closing...
+2021-09-29 17:05:02.1875 Info Logger has been shut down.
+2021-09-29 17:06:01.2646 Info Message Template Auto Format enabled
+2021-09-29 17:06:01.2646 Info Loading assembly: NLog.Web.AspNetCore
+2021-09-29 17:06:01.2980 Info Adding target FileTarget(Name=alldata)
+2021-09-29 17:06:01.2980 Info Adding target FileTarget(Name=otherFile-web)
+2021-09-29 17:06:01.3177 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\NLog.config
+2021-09-29 17:06:01.3282 Info Configuration initialized.
+2021-09-29 17:06:01.3282 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-09-29 17:06:02.4364 Info AppDomain Shutting down. Logger closing...
+2021-09-29 17:06:02.4520 Info Logger has been shut down.
+2021-09-30 07:04:19.1801 Info Message Template Auto Format enabled
+2021-09-30 07:04:19.2437 Info Loading assembly: NLog.Web.AspNetCore
+2021-09-30 07:04:19.3085 Info Adding target FileTarget(Name=alldata)
+2021-09-30 07:04:19.3261 Info Adding target FileTarget(Name=otherFile-web)
+2021-09-30 07:04:19.3787 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-09-30 07:08:16.3823 Info Message Template Auto Format enabled
+2021-09-30 07:08:16.3985 Info Loading assembly: NLog.Web.AspNetCore
+2021-09-30 07:08:16.4596 Info Adding target FileTarget(Name=alldata)
+2021-09-30 07:08:16.4720 Info Adding target FileTarget(Name=otherFile-web)
+2021-09-30 07:08:16.5188 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-09-30 07:10:48.2383 Info Message Template Auto Format enabled
+2021-09-30 07:10:48.2642 Info Loading assembly: NLog.Web.AspNetCore
+2021-09-30 07:10:48.3324 Info Adding target FileTarget(Name=alldata)
+2021-09-30 07:10:48.3488 Info Adding target FileTarget(Name=otherFile-web)
+2021-09-30 07:10:48.3936 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-09-30 07:11:35.4011 Info Message Template Auto Format enabled
+2021-09-30 07:11:35.5912 Info Loading assembly: NLog.Web.AspNetCore
+2021-09-30 07:11:35.6670 Info Adding target FileTarget(Name=alldata)
+2021-09-30 07:11:35.6835 Info Adding target FileTarget(Name=otherFile-web)
+2021-09-30 07:11:35.7390 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-09-30 07:24:29.8964 Info Message Template Auto Format enabled
+2021-09-30 07:24:29.9198 Info Loading assembly: NLog.Web.AspNetCore
+2021-09-30 07:24:29.9990 Info Adding target FileTarget(Name=alldata)
+2021-09-30 07:24:29.9990 Info Adding target FileTarget(Name=otherFile-web)
+2021-09-30 07:24:30.0494 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-10-06 10:08:58.4831 Info Message Template Auto Format enabled
+2021-10-06 10:08:58.4976 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-06 10:08:58.5370 Info Adding target FileTarget(Name=alldata)
+2021-10-06 10:08:58.5394 Info Adding target FileTarget(Name=otherFile-web)
+2021-10-06 10:08:58.5619 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Release\netcoreapp3.0\NLog.config
+2021-10-06 10:08:58.6454 Info Configuration initialized.
+2021-10-06 10:08:58.6454 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-10-06 10:08:59.5453 Info AppDomain Shutting down. Logger closing...
+2021-10-06 10:08:59.5598 Info Logger has been shut down.
+2021-10-06 10:13:40.5388 Info Message Template Auto Format enabled
+2021-10-06 10:13:40.5455 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-06 10:13:40.5856 Info Adding target FileTarget(Name=alldata)
+2021-10-06 10:13:40.5894 Info Adding target FileTarget(Name=otherFile-web)
+2021-10-06 10:13:40.6139 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Release\netcoreapp3.0\NLog.config
+2021-10-06 10:13:40.6278 Info Configuration initialized.
+2021-10-06 10:13:40.6278 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-10-06 10:13:41.8555 Info AppDomain Shutting down. Logger closing...
+2021-10-06 10:13:41.8681 Info Logger has been shut down.
+2021-10-07 16:42:33.4111 Info Message Template Auto Format enabled
+2021-10-07 16:42:33.5698 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 16:42:33.6385 Info Adding target FileTarget(Name=alldata)
+2021-10-07 16:42:33.6544 Info Adding target FileTarget(Name=otherFile-web)
+2021-10-07 16:42:33.7128 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Release\netcoreapp3.0\nlog.config
+2021-10-07 16:45:08.5910 Info Message Template Auto Format enabled
+2021-10-07 16:45:08.6129 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 16:45:08.6982 Info Adding target FileTarget(Name=alldata)
+2021-10-07 16:45:08.7167 Info Adding target FileTarget(Name=otherFile-web)
+2021-10-07 16:45:08.7613 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Release\netcoreapp3.0\nlog.config
+2021-10-07 16:46:08.7608 Info Message Template Auto Format enabled
+2021-10-07 16:46:08.7957 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 16:46:08.8811 Info Adding target FileTarget(Name=alldata)
+2021-10-07 16:46:08.8973 Info Adding target FileTarget(Name=otherFile-web)
+2021-10-07 16:46:08.9535 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Release\netcoreapp3.0\nlog.config
+2021-10-07 16:51:21.8032 Info Message Template Auto Format enabled
+2021-10-07 16:51:21.8227 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 16:51:21.8843 Info Adding target FileTarget(Name=alldata)
+2021-10-07 16:51:21.9047 Info Adding target FileTarget(Name=otherFile-web)
+2021-10-07 16:51:21.9544 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-04 08:52:07.5635 Info Message Template Auto Format enabled
+2021-11-04 08:52:07.6019 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-04 08:52:07.6685 Info Adding target FileTarget(Name=alldata)
+2021-11-04 08:52:07.6819 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-04 08:52:07.7345 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-04 17:29:45.5876 Info Message Template Auto Format enabled
+2021-11-04 17:29:45.6151 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-04 17:29:45.7130 Info Adding target FileTarget(Name=alldata)
+2021-11-04 17:29:45.7709 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-04 17:29:45.8542 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-04 17:31:38.7097 Info Shutdown() called. Logger closing...
+2021-11-04 17:31:38.7097 Info Closing old configuration.
+2021-11-04 17:31:38.7268 Info Logger has been closed down.
+2021-11-04 17:32:36.0045 Info Message Template Auto Format enabled
+2021-11-04 17:32:36.0258 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-04 17:32:36.1434 Info Adding target FileTarget(Name=alldata)
+2021-11-04 17:32:36.1620 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-04 17:32:36.2255 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-04 17:33:34.0927 Info Message Template Auto Format enabled
+2021-11-04 17:33:34.1102 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-04 17:33:34.1768 Info Adding target FileTarget(Name=alldata)
+2021-11-04 17:33:34.1908 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-04 17:33:34.3531 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-05 08:22:56.9082 Info Message Template Auto Format enabled
+2021-11-05 08:22:56.9327 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-05 08:22:57.0007 Info Adding target FileTarget(Name=alldata)
+2021-11-05 08:22:57.0275 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-05 08:22:57.1270 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-05 09:08:18.0051 Info Message Template Auto Format enabled
+2021-11-05 09:08:18.0618 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-05 09:08:18.1314 Info Adding target FileTarget(Name=alldata)
+2021-11-05 09:08:18.1464 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-05 09:08:18.2026 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-05 09:18:31.0948 Info Message Template Auto Format enabled
+2021-11-05 09:18:31.1195 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-05 09:18:31.1929 Info Adding target FileTarget(Name=alldata)
+2021-11-05 09:18:31.2134 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-05 09:18:31.2985 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-05 09:32:01.5134 Info Message Template Auto Format enabled
+2021-11-05 09:32:01.5517 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-05 09:32:01.6347 Info Adding target FileTarget(Name=alldata)
+2021-11-05 09:32:01.6602 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-05 09:32:01.7341 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-05 09:33:14.0931 Info Message Template Auto Format enabled
+2021-11-05 09:33:14.1234 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-05 09:33:14.2019 Info Adding target FileTarget(Name=alldata)
+2021-11-05 09:33:14.2276 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-05 09:33:14.2892 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-05 10:16:43.2943 Info Message Template Auto Format enabled
+2021-11-05 10:16:43.3261 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-05 10:16:43.3875 Info Adding target FileTarget(Name=alldata)
+2021-11-05 10:16:43.4050 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-05 10:16:43.4803 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-05 10:38:24.0877 Info Message Template Auto Format enabled
+2021-11-05 10:38:24.1083 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-05 10:38:24.1916 Info Adding target FileTarget(Name=alldata)
+2021-11-05 10:38:24.2146 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-05 10:38:24.2747 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-05 17:44:22.9968 Info Message Template Auto Format enabled
+2021-11-05 17:44:23.0204 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-05 17:44:23.1200 Info Adding target FileTarget(Name=alldata)
+2021-11-05 17:44:23.1356 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-05 17:44:23.1828 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-05 18:59:11.4016 Info Message Template Auto Format enabled
+2021-11-05 18:59:11.4269 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-05 18:59:11.5004 Info Adding target FileTarget(Name=alldata)
+2021-11-05 18:59:11.5124 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-05 18:59:11.5628 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Working\Projects\BCGB\Sources\BCXN_BE\BCXN\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-16 16:10:32.6254 Info Message Template Auto Format enabled
+2021-11-16 16:10:32.6254 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 16:10:32.6506 Info Adding target FileTarget(Name=alldata)
+2021-11-16 16:10:32.6506 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-16 16:10:32.6629 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\NLog.config
+2021-11-16 16:10:32.6713 Info Configuration initialized.
+2021-11-16 16:10:32.6713 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-11-16 16:10:33.2301 Info AppDomain Shutting down. Logger closing...
+2021-11-16 16:10:33.2384 Info Logger has been shut down.
+2021-11-16 16:10:45.1858 Info Message Template Auto Format enabled
+2021-11-16 16:10:45.1858 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 16:10:45.2128 Info Adding target FileTarget(Name=alldata)
+2021-11-16 16:10:45.2128 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-16 16:10:45.2252 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\NLog.config
+2021-11-16 16:10:45.2336 Info Configuration initialized.
+2021-11-16 16:10:45.2336 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-11-16 16:10:46.6642 Info AppDomain Shutting down. Logger closing...
+2021-11-16 16:10:46.6730 Info Logger has been shut down.
+2021-11-16 16:13:40.9000 Info Message Template Auto Format enabled
+2021-11-16 16:13:40.9000 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 16:13:40.9254 Info Adding target FileTarget(Name=alldata)
+2021-11-16 16:13:40.9254 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-16 16:13:40.9377 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\NLog.config
+2021-11-16 16:13:40.9377 Info Configuration initialized.
+2021-11-16 16:13:40.9377 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-11-16 16:13:41.5870 Info AppDomain Shutting down. Logger closing...
+2021-11-16 16:13:41.5954 Info Logger has been shut down.
+2021-11-16 16:29:19.5756 Info Message Template Auto Format enabled
+2021-11-16 16:29:19.5788 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 16:29:19.6010 Info Adding target FileTarget(Name=alldata)
+2021-11-16 16:29:19.6010 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-16 16:29:19.6135 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\NLog.config
+2021-11-16 16:29:19.6135 Info Configuration initialized.
+2021-11-16 16:29:19.6135 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-11-16 16:29:20.2692 Info AppDomain Shutting down. Logger closing...
+2021-11-16 16:29:20.2692 Info Logger has been shut down.
+2021-11-16 16:37:16.4474 Info Message Template Auto Format enabled
+2021-11-16 16:37:16.4474 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 16:37:16.4727 Info Adding target FileTarget(Name=alldata)
+2021-11-16 16:37:16.4727 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-16 16:37:16.4851 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\NLog.config
+2021-11-16 16:37:16.4851 Info Configuration initialized.
+2021-11-16 16:37:16.4851 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-11-16 16:37:17.2169 Info AppDomain Shutting down. Logger closing...
+2021-11-16 16:37:17.2253 Info Logger has been shut down.
+2021-11-16 16:37:28.9964 Info Message Template Auto Format enabled
+2021-11-16 16:37:28.9998 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 16:37:29.0224 Info Adding target FileTarget(Name=alldata)
+2021-11-16 16:37:29.0224 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-16 16:37:29.0349 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\NLog.config
+2021-11-16 16:37:29.0349 Info Configuration initialized.
+2021-11-16 16:37:29.0349 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-11-16 16:37:29.6901 Info AppDomain Shutting down. Logger closing...
+2021-11-16 16:37:29.6901 Info Logger has been shut down.
+2021-11-16 16:37:34.4051 Info Message Template Auto Format enabled
+2021-11-16 16:37:34.4083 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 16:37:34.4306 Info Adding target FileTarget(Name=alldata)
+2021-11-16 16:37:34.4306 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-16 16:37:34.4431 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\NLog.config
+2021-11-16 16:37:34.4431 Info Configuration initialized.
+2021-11-16 16:37:34.4431 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-11-16 16:37:35.1632 Info AppDomain Shutting down. Logger closing...
+2021-11-16 16:37:35.1715 Info Logger has been shut down.
+2021-11-16 16:37:41.0968 Info Message Template Auto Format enabled
+2021-11-16 16:37:41.0968 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 16:37:41.1216 Info Adding target FileTarget(Name=alldata)
+2021-11-16 16:37:41.1216 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-16 16:37:41.1337 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\NLog.config
+2021-11-16 16:37:41.1418 Info Configuration initialized.
+2021-11-16 16:37:41.1418 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-11-16 16:37:41.8018 Info AppDomain Shutting down. Logger closing...
+2021-11-16 16:37:41.8018 Info Logger has been shut down.
+2021-11-16 16:38:11.9528 Info Message Template Auto Format enabled
+2021-11-16 16:38:11.9560 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 16:38:11.9783 Info Adding target FileTarget(Name=alldata)
+2021-11-16 16:38:11.9783 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-16 16:38:11.9908 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\NLog.config
+2021-11-16 16:38:11.9908 Info Configuration initialized.
+2021-11-16 16:38:11.9908 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-11-16 16:38:12.5895 Info AppDomain Shutting down. Logger closing...
+2021-11-16 16:38:12.5983 Info Logger has been shut down.
+2021-11-16 16:38:23.4118 Info Message Template Auto Format enabled
+2021-11-16 16:38:23.4118 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 16:38:23.4372 Info Adding target FileTarget(Name=alldata)
+2021-11-16 16:38:23.4378 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-16 16:38:23.4378 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\NLog.config
+2021-11-16 16:38:23.4582 Info Configuration initialized.
+2021-11-16 16:38:23.4582 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-11-16 16:38:24.1050 Info AppDomain Shutting down. Logger closing...
+2021-11-16 16:38:24.1135 Info Logger has been shut down.
+2021-11-16 16:40:23.5367 Info Message Template Auto Format enabled
+2021-11-16 16:40:23.5367 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 16:40:23.5622 Info Adding target FileTarget(Name=alldata)
+2021-11-16 16:40:23.5622 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-16 16:40:23.5622 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\NLog.config
+2021-11-16 16:40:23.5830 Info Configuration initialized.
+2021-11-16 16:40:23.5830 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-11-16 16:40:24.2932 Info AppDomain Shutting down. Logger closing...
+2021-11-16 16:40:24.3015 Info Logger has been shut down.
+2021-11-16 16:40:30.2011 Info Message Template Auto Format enabled
+2021-11-16 16:40:30.2042 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 16:40:30.2260 Info Adding target FileTarget(Name=alldata)
+2021-11-16 16:40:30.2260 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-16 16:40:30.2381 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\NLog.config
+2021-11-16 16:40:30.2381 Info Configuration initialized.
+2021-11-16 16:40:30.2381 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-11-16 16:40:30.9321 Info AppDomain Shutting down. Logger closing...
+2021-11-16 16:40:30.9406 Info Logger has been shut down.
+2021-11-16 16:40:43.0159 Info Message Template Auto Format enabled
+2021-11-16 16:40:43.0190 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 16:40:43.0407 Info Adding target FileTarget(Name=alldata)
+2021-11-16 16:40:43.0407 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-16 16:40:43.0527 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\NLog.config
+2021-11-16 16:40:43.0527 Info Configuration initialized.
+2021-11-16 16:40:43.0527 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-11-16 16:40:43.6908 Info AppDomain Shutting down. Logger closing...
+2021-11-16 16:40:43.7091 Info Logger has been shut down.
+2021-11-16 16:40:56.5976 Info Message Template Auto Format enabled
+2021-11-16 16:40:56.5976 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 16:40:56.6232 Info Adding target FileTarget(Name=alldata)
+2021-11-16 16:40:56.6232 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-16 16:40:56.6358 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\NLog.config
+2021-11-16 16:40:56.6441 Info Configuration initialized.
+2021-11-16 16:40:56.6441 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-11-16 16:40:57.2190 Info AppDomain Shutting down. Logger closing...
+2021-11-16 16:40:57.2273 Info Logger has been shut down.
+2021-11-16 16:41:03.0231 Info Message Template Auto Format enabled
+2021-11-16 16:41:03.0231 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 16:41:03.0489 Info Adding target FileTarget(Name=alldata)
+2021-11-16 16:41:03.0489 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-16 16:41:03.0489 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\NLog.config
+2021-11-16 16:41:03.0700 Info Configuration initialized.
+2021-11-16 16:41:03.0700 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-11-16 16:41:11.3435 Info AppDomain Shutting down. Logger closing...
+2021-11-16 16:41:11.3523 Info Logger has been shut down.
+2021-11-16 16:51:15.0817 Info Message Template Auto Format enabled
+2021-11-16 16:51:15.0817 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 16:51:15.1074 Info Adding target FileTarget(Name=alldata)
+2021-11-16 16:51:15.1074 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-16 16:51:15.1202 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\NLog.config
+2021-11-16 16:51:15.1202 Info Configuration initialized.
+2021-11-16 16:51:15.1202 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-11-16 16:51:15.7129 Info AppDomain Shutting down. Logger closing...
+2021-11-16 16:51:15.7129 Info Logger has been shut down.
+2021-11-20 10:59:50.7228 Info Message Template Auto Format enabled
+2021-11-20 10:59:50.7346 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-20 10:59:50.7825 Info Adding target FileTarget(Name=alldata)
+2021-11-20 10:59:50.7884 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-20 10:59:50.8178 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\BE\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-26 16:28:36.1117 Info Message Template Auto Format enabled
+2021-11-26 16:28:36.1199 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-26 16:28:36.1531 Info Adding target FileTarget(Name=alldata)
+2021-11-26 16:28:36.1531 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-26 16:28:36.1800 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\evnEPaymentBE\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-26 16:43:02.9699 Info Message Template Auto Format enabled
+2021-11-26 16:43:02.9782 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-26 16:43:03.0102 Info Adding target FileTarget(Name=alldata)
+2021-11-26 16:43:03.0102 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-26 16:43:03.0391 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\evnEPaymentBE\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-26 16:44:02.9244 Info Message Template Auto Format enabled
+2021-11-26 16:44:02.9329 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-26 16:44:02.9656 Info Adding target FileTarget(Name=alldata)
+2021-11-26 16:44:02.9656 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-26 16:44:02.9930 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\evnEPaymentBE\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-26 17:24:51.4573 Info Message Template Auto Format enabled
+2021-11-26 17:24:51.4656 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-26 17:24:51.4989 Info Adding target FileTarget(Name=alldata)
+2021-11-26 17:24:51.4989 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-26 17:24:51.5275 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\evnEPaymentBE\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-26 17:52:41.1703 Info Message Template Auto Format enabled
+2021-11-26 17:52:41.1791 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-26 17:52:41.2122 Info Adding target FileTarget(Name=alldata)
+2021-11-26 17:52:41.2122 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-26 17:52:41.2414 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\evnEPaymentBE\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-29 08:44:11.6999 Info Message Template Auto Format enabled
+2021-11-29 08:44:11.7088 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-29 08:44:11.7429 Info Adding target FileTarget(Name=alldata)
+2021-11-29 08:44:11.7429 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-29 08:44:11.7714 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\evnEPaymentBE\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-29 08:54:09.9545 Info Message Template Auto Format enabled
+2021-11-29 08:54:09.9638 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-29 08:54:09.9974 Info Adding target FileTarget(Name=alldata)
+2021-11-29 08:54:09.9974 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-29 08:54:10.0255 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\evnEPaymentBE\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-29 08:57:37.5255 Info Message Template Auto Format enabled
+2021-11-29 08:57:37.5255 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-29 08:57:37.5666 Info Adding target FileTarget(Name=alldata)
+2021-11-29 08:57:37.5666 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-29 08:57:37.5950 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\evnEPaymentBE\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-29 09:07:32.3848 Info Message Template Auto Format enabled
+2021-11-29 09:07:32.3951 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-29 09:07:32.4328 Info Adding target FileTarget(Name=alldata)
+2021-11-29 09:07:32.4328 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-29 09:07:32.4593 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\evnEPaymentBE\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-29 09:09:34.0826 Info Message Template Auto Format enabled
+2021-11-29 09:09:34.0826 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-29 09:09:34.1297 Info Adding target FileTarget(Name=alldata)
+2021-11-29 09:09:34.1297 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-29 09:09:34.1609 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\evnEPaymentBE\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-29 09:09:55.1000 Info Message Template Auto Format enabled
+2021-11-29 09:09:55.1090 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-29 09:09:55.1435 Info Adding target FileTarget(Name=alldata)
+2021-11-29 09:09:55.1489 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-29 09:09:55.1724 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\evnEPaymentBE\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-29 09:16:23.4265 Info Message Template Auto Format enabled
+2021-11-29 09:16:23.4265 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-29 09:16:23.4712 Info Adding target FileTarget(Name=alldata)
+2021-11-29 09:16:23.4766 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-29 09:16:23.4997 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\evnEPaymentBE\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-29 09:35:18.9266 Info Message Template Auto Format enabled
+2021-11-29 09:35:18.9266 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-29 09:35:18.9700 Info Adding target FileTarget(Name=alldata)
+2021-11-29 09:35:18.9755 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-29 09:35:19.0020 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\evnEPaymentBE\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-29 09:38:46.2375 Info Message Template Auto Format enabled
+2021-11-29 09:38:46.2479 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-29 09:38:46.2820 Info Adding target FileTarget(Name=alldata)
+2021-11-29 09:38:46.2872 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-29 09:38:46.3116 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\evnEPaymentBE\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-29 09:41:38.1179 Info Message Template Auto Format enabled
+2021-11-29 09:41:38.1179 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-29 09:41:38.1647 Info Adding target FileTarget(Name=alldata)
+2021-11-29 09:41:38.1647 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-29 09:41:38.1955 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\evnEPaymentBE\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-29 11:42:36.5233 Info Message Template Auto Format enabled
+2021-11-29 11:42:36.5233 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-29 11:42:36.5673 Info Adding target FileTarget(Name=alldata)
+2021-11-29 11:42:36.5673 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-29 11:42:36.5957 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\evnEPaymentBE\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-29 15:20:59.3560 Info Message Template Auto Format enabled
+2021-11-29 15:20:59.3750 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-29 15:20:59.4139 Info Adding target FileTarget(Name=alldata)
+2021-11-29 15:20:59.4195 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-29 15:20:59.4422 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\evnEPaymentBE\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-29 15:34:05.5157 Info Message Template Auto Format enabled
+2021-11-29 15:34:05.5157 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-29 15:34:05.5575 Info Adding target FileTarget(Name=alldata)
+2021-11-29 15:34:05.5575 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-29 15:34:05.5859 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\evnEPaymentBE\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-29 15:35:49.4999 Info Message Template Auto Format enabled
+2021-11-29 15:35:49.4999 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-29 15:35:49.5488 Info Adding target FileTarget(Name=alldata)
+2021-11-29 15:35:49.5707 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-29 15:35:49.5961 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\evnEPaymentBE\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-29 16:02:25.6301 Info Message Template Auto Format enabled
+2021-11-29 16:02:25.6388 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-29 16:02:25.6725 Info Adding target FileTarget(Name=alldata)
+2021-11-29 16:02:25.6725 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-29 16:02:25.6996 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\evnEPaymentBE\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-29 16:10:20.4037 Info Message Template Auto Format enabled
+2021-11-29 16:10:20.4121 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-29 16:10:20.4454 Info Adding target FileTarget(Name=alldata)
+2021-11-29 16:10:20.4508 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-29 16:10:20.4743 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\evnEPaymentBE\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-29 16:12:27.4680 Info Message Template Auto Format enabled
+2021-11-29 16:12:27.4680 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-29 16:12:27.5118 Info Adding target FileTarget(Name=alldata)
+2021-11-29 16:12:27.5118 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-29 16:12:27.5397 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\evnEPaymentBE\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-29 16:25:28.0751 Info Message Template Auto Format enabled
+2021-11-29 16:25:28.0751 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-29 16:25:28.1217 Info Adding target FileTarget(Name=alldata)
+2021-11-29 16:25:28.1217 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-29 16:25:28.1499 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\evnEPaymentBE\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-29 16:27:59.3423 Info Message Template Auto Format enabled
+2021-11-29 16:27:59.3423 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-29 16:27:59.3868 Info Adding target FileTarget(Name=alldata)
+2021-11-29 16:27:59.3868 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-29 16:27:59.4148 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\evnEPaymentBE\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-29 16:29:12.7336 Info Message Template Auto Format enabled
+2021-11-29 16:29:12.7336 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-29 16:29:12.7748 Info Adding target FileTarget(Name=alldata)
+2021-11-29 16:29:12.7800 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-29 16:29:12.8047 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\evnEPaymentBE\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-29 17:11:26.0230 Info Message Template Auto Format enabled
+2021-11-29 17:11:26.0320 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-29 17:11:26.0646 Info Adding target FileTarget(Name=alldata)
+2021-11-29 17:11:26.0646 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-29 17:11:26.0923 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\evnEPaymentBE\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-11-29 17:23:40.4459 Info Message Template Auto Format enabled
+2021-11-29 17:23:40.4533 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-29 17:23:40.4866 Info Adding target FileTarget(Name=alldata)
+2021-11-29 17:23:40.4866 Info Adding target FileTarget(Name=otherFile-web)
+2021-11-29 17:23:40.5150 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=E:\evnEPaymentBE\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-12-02 16:20:03.2134 Info Message Template Auto Format enabled
+2021-12-02 16:20:03.2429 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-02 16:20:03.3488 Info Adding target FileTarget(Name=alldata)
+2021-12-02 16:20:03.3572 Info Adding target FileTarget(Name=otherFile-web)
+2021-12-02 16:20:03.4253 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\2\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-12-02 16:22:26.5452 Info Message Template Auto Format enabled
+2021-12-02 16:22:26.5606 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-02 16:22:26.6172 Info Adding target FileTarget(Name=alldata)
+2021-12-02 16:22:26.6257 Info Adding target FileTarget(Name=otherFile-web)
+2021-12-02 16:22:26.6664 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\2\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-12-02 16:23:25.1618 Info Message Template Auto Format enabled
+2021-12-02 16:23:25.1731 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-02 16:23:25.2221 Info Adding target FileTarget(Name=alldata)
+2021-12-02 16:23:25.2221 Info Adding target FileTarget(Name=otherFile-web)
+2021-12-02 16:23:25.2622 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\2\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-12-02 16:25:02.5197 Info Message Template Auto Format enabled
+2021-12-02 16:25:02.5315 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-02 16:25:02.5795 Info Adding target FileTarget(Name=alldata)
+2021-12-02 16:25:02.5860 Info Adding target FileTarget(Name=otherFile-web)
+2021-12-02 16:25:02.6190 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\2\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-12-02 16:26:20.3497 Info Message Template Auto Format enabled
+2021-12-02 16:26:20.3612 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-02 16:26:20.4109 Info Adding target FileTarget(Name=alldata)
+2021-12-02 16:26:20.4109 Info Adding target FileTarget(Name=otherFile-web)
+2021-12-02 16:26:20.4670 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\2\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+<<<<<<< HEAD
+2021-12-03 12:38:45.0844 Info Message Template Auto Format enabled
+2021-12-03 12:38:45.0992 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-03 12:38:45.1645 Info Adding target FileTarget(Name=alldata)
+2021-12-03 12:38:45.1746 Info Adding target FileTarget(Name=otherFile-web)
+2021-12-03 12:38:45.2287 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\2\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+=======
+2021-12-03 10:26:01.4331 Info Message Template Auto Format enabled
+2021-12-03 10:26:01.4551 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-03 10:26:01.4894 Info Adding target FileTarget(Name=alldata)
+2021-12-03 10:26:01.4894 Info Adding target FileTarget(Name=otherFile-web)
+2021-12-03 10:26:01.5196 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-12-03 10:27:10.4157 Info Message Template Auto Format enabled
+2021-12-03 10:27:10.4375 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-03 10:27:10.4748 Info Adding target FileTarget(Name=alldata)
+2021-12-03 10:27:10.4826 Info Adding target FileTarget(Name=otherFile-web)
+2021-12-03 10:27:10.5094 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-12-03 10:27:56.9655 Info Message Template Auto Format enabled
+2021-12-03 10:27:56.9655 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-03 10:27:57.0129 Info Adding target FileTarget(Name=alldata)
+2021-12-03 10:27:57.0129 Info Adding target FileTarget(Name=otherFile-web)
+2021-12-03 10:27:57.0444 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-12-03 10:28:23.8819 Info Message Template Auto Format enabled
+2021-12-03 10:28:23.8910 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-03 10:28:23.9308 Info Adding target FileTarget(Name=alldata)
+2021-12-03 10:28:23.9360 Info Adding target FileTarget(Name=otherFile-web)
+2021-12-03 10:28:23.9608 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-12-03 10:28:52.8293 Info Message Template Auto Format enabled
+2021-12-03 10:28:52.8293 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-03 10:28:52.8710 Info Adding target FileTarget(Name=alldata)
+2021-12-03 10:28:52.8710 Info Adding target FileTarget(Name=otherFile-web)
+2021-12-03 10:28:52.9013 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-12-03 10:30:44.7721 Info Message Template Auto Format enabled
+2021-12-03 10:30:44.7838 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-03 10:30:44.8216 Info Adding target FileTarget(Name=alldata)
+2021-12-03 10:30:44.8275 Info Adding target FileTarget(Name=otherFile-web)
+2021-12-03 10:30:44.8564 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-12-03 10:31:54.7602 Info Message Template Auto Format enabled
+2021-12-03 10:31:54.7709 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-03 10:31:54.8107 Info Adding target FileTarget(Name=alldata)
+2021-12-03 10:31:54.8107 Info Adding target FileTarget(Name=otherFile-web)
+2021-12-03 10:31:54.8484 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-12-03 10:32:33.3370 Info Message Template Auto Format enabled
+2021-12-03 10:32:33.3473 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-03 10:32:33.3894 Info Adding target FileTarget(Name=alldata)
+2021-12-03 10:32:33.3894 Info Adding target FileTarget(Name=otherFile-web)
+2021-12-03 10:32:33.4213 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-12-03 10:47:09.1164 Info Message Template Auto Format enabled
+2021-12-03 10:47:09.1342 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-03 10:47:09.1788 Info Adding target FileTarget(Name=alldata)
+2021-12-03 10:47:09.1849 Info Adding target FileTarget(Name=otherFile-web)
+2021-12-03 10:47:09.2113 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-12-03 11:24:30.3208 Info Message Template Auto Format enabled
+2021-12-03 11:24:30.3303 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-03 11:24:30.3701 Info Adding target FileTarget(Name=alldata)
+2021-12-03 11:24:30.3758 Info Adding target FileTarget(Name=otherFile-web)
+2021-12-03 11:24:30.4012 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-12-03 11:27:53.6943 Info Message Template Auto Format enabled
+2021-12-03 11:27:53.7138 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-03 11:27:53.7604 Info Adding target FileTarget(Name=alldata)
+2021-12-03 11:27:53.7662 Info Adding target FileTarget(Name=otherFile-web)
+2021-12-03 11:27:53.7921 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-12-03 11:30:46.3724 Info Message Template Auto Format enabled
+2021-12-03 11:30:46.3856 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-03 11:30:46.4241 Info Adding target FileTarget(Name=alldata)
+2021-12-03 11:30:46.4241 Info Adding target FileTarget(Name=otherFile-web)
+2021-12-03 11:30:46.4546 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-12-03 11:31:40.6216 Info Message Template Auto Format enabled
+2021-12-03 11:31:40.6305 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-03 11:31:40.6653 Info Adding target FileTarget(Name=alldata)
+2021-12-03 11:31:40.6653 Info Adding target FileTarget(Name=otherFile-web)
+2021-12-03 11:31:40.6955 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-12-03 11:33:03.4333 Info Message Template Auto Format enabled
+2021-12-03 11:33:03.4333 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-03 11:33:03.4832 Info Adding target FileTarget(Name=alldata)
+2021-12-03 11:33:03.4832 Info Adding target FileTarget(Name=otherFile-web)
+2021-12-03 11:33:03.5240 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-12-03 11:34:44.0571 Info Message Template Auto Format enabled
+2021-12-03 11:34:44.0678 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-03 11:34:44.1073 Info Adding target FileTarget(Name=alldata)
+2021-12-03 11:34:44.1135 Info Adding target FileTarget(Name=otherFile-web)
+2021-12-03 11:34:44.1379 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-12-03 11:36:21.1838 Info Message Template Auto Format enabled
+2021-12-03 11:36:21.1838 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-03 11:36:21.2355 Info Adding target FileTarget(Name=alldata)
+2021-12-03 11:36:21.2355 Info Adding target FileTarget(Name=otherFile-web)
+2021-12-03 11:36:21.2691 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-12-03 11:37:53.1530 Info Message Template Auto Format enabled
+2021-12-03 11:37:53.1630 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-03 11:37:53.2003 Info Adding target FileTarget(Name=alldata)
+2021-12-03 11:37:53.2080 Info Adding target FileTarget(Name=otherFile-web)
+2021-12-03 11:37:53.2325 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-12-03 11:39:49.7257 Info Message Template Auto Format enabled
+2021-12-03 11:39:49.7365 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-03 11:39:49.7766 Info Adding target FileTarget(Name=alldata)
+2021-12-03 11:39:49.7832 Info Adding target FileTarget(Name=otherFile-web)
+2021-12-03 11:39:49.8124 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-12-03 11:45:07.8164 Info Message Template Auto Format enabled
+2021-12-03 11:45:07.8265 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-03 11:45:07.8670 Info Adding target FileTarget(Name=alldata)
+2021-12-03 11:45:07.8725 Info Adding target FileTarget(Name=otherFile-web)
+2021-12-03 11:45:07.8987 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-12-03 11:45:39.8956 Info Message Template Auto Format enabled
+2021-12-03 11:45:39.8956 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-03 11:45:39.9433 Info Adding target FileTarget(Name=alldata)
+2021-12-03 11:45:39.9433 Info Adding target FileTarget(Name=otherFile-web)
+2021-12-03 11:45:39.9755 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-12-03 11:46:36.8446 Info Message Template Auto Format enabled
+2021-12-03 11:46:36.8537 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-03 11:46:36.8881 Info Adding target FileTarget(Name=alldata)
+2021-12-03 11:46:36.8939 Info Adding target FileTarget(Name=otherFile-web)
+2021-12-03 11:46:36.9182 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-12-03 11:47:30.1428 Info Message Template Auto Format enabled
+2021-12-03 11:47:30.1428 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-03 11:47:30.1873 Info Adding target FileTarget(Name=alldata)
+2021-12-03 11:47:30.1926 Info Adding target FileTarget(Name=otherFile-web)
+2021-12-03 11:47:30.2195 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-12-03 11:47:58.2597 Info Message Template Auto Format enabled
+2021-12-03 11:47:58.2597 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-03 11:47:58.3059 Info Adding target FileTarget(Name=alldata)
+2021-12-03 11:47:58.3059 Info Adding target FileTarget(Name=otherFile-web)
+2021-12-03 11:47:58.3348 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-12-03 11:50:20.2687 Info Message Template Auto Format enabled
+2021-12-03 11:50:20.2791 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-03 11:50:20.3236 Info Adding target FileTarget(Name=alldata)
+2021-12-03 11:50:20.3236 Info Adding target FileTarget(Name=otherFile-web)
+2021-12-03 11:50:20.3589 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-12-03 12:21:49.9507 Info Message Template Auto Format enabled
+2021-12-03 12:21:49.9507 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-03 12:21:50.0062 Info Adding target FileTarget(Name=alldata)
+2021-12-03 12:21:50.0129 Info Adding target FileTarget(Name=otherFile-web)
+2021-12-03 12:21:50.0401 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+>>>>>>> 90bc336477808d8cafe9ac9202a4646affbe8f95
+2021-12-03 15:57:38.2333 Info Message Template Auto Format enabled
+2021-12-03 15:57:38.2455 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-03 15:57:38.2978 Info Adding target FileTarget(Name=alldata)
+2021-12-03 15:57:38.3072 Info Adding target FileTarget(Name=otherFile-web)
+2021-12-03 15:57:38.3441 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\2\EPAYMENT_BE\Epayment\bin\Debug\netcoreapp3.0\nlog.config
+2021-12-14 09:34:06.1609 Info Message Template Auto Format enabled
+2021-12-14 09:34:06.1609 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-14 09:34:06.2092 Info Adding target FileTarget(Name=alldata)
+2021-12-14 09:34:06.2092 Info Adding target FileTarget(Name=otherFile-web)
+2021-12-14 09:34:06.2388 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Release\netcoreapp3.0\nlog.config
+2022-01-19 15:57:24.1340 Info Message Template Auto Format enabled
+2022-01-19 15:57:24.1526 Info Loading assembly: NLog.Web.AspNetCore
+2022-01-19 15:57:24.2119 Info Adding target FileTarget(Name=alldata)
+2022-01-19 15:57:24.2203 Info Adding target FileTarget(Name=otherFile-web)
+2022-01-19 15:57:24.2640 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\evn\EPAYMENT_BE\Epayment\bin\Release\netcoreapp3.0\nlog.config

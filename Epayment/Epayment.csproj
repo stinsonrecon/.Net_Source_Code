@@ -1,0 +1,85 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <UserSecretsId>aspnet-CustomerManagement-9AF7AA4A-F62F-421E-A9A5-2292DEA4CA99</UserSecretsId>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20211115083839_EPayment_Vs1.cs" />
+    <Compile Remove="Migrations\20211115083839_EPayment_Vs1.Designer.cs" />
+    <Compile Remove="Migrations\20211116082319_EPayment_V2.cs" />
+    <Compile Remove="Migrations\20211116082319_EPayment_V2.Designer.cs" />
+    <Compile Remove="Migrations\20211116091033_EPayment_V3.cs" />
+    <Compile Remove="Migrations\20211116091033_EPayment_V3.Designer.cs" />
+    <Compile Remove="Migrations\20211116093812_EPayment_v2.cs" />
+    <Compile Remove="Migrations\20211116093812_EPayment_v2.Designer.cs" />
+    <Compile Remove="Migrations\20211213102355_KySoTaiLieu_NgayTao.cs" />
+    <Compile Remove="Migrations\20211213102355_KySoTaiLieu_NgayTao.Designer.cs" />
+    <Compile Remove="Migrations\20211213102938_KySoTaiLieu_NgayTao.cs" />
+    <Compile Remove="Migrations\20211213102938_KySoTaiLieu_NgayTao.Designer.cs" />
+    <Compile Remove="Migrations\20211213103721_KySoTaiLieu_NgayTao.cs" />
+    <Compile Remove="Migrations\20211213103721_KySoTaiLieu_NgayTao.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Aspose.Slides.NET.lic" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="Aspose.Slides.NET" Version="21.7.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="FreeSpire.Doc" Version="9.9.7" />
+    <PackageReference Include="Microsoft.Exchange.WebServices" Version="2.2.0" />
+	<PackageReference Include="Portable.BouncyCastle" Version="1.9.0" />
+    <PackageReference Include="ceTe.DynamicPDF.Converter.NET" Version="3.11.0" />
+    <PackageReference Include="Hangfire" Version="1.7.25" />
+    <PackageReference Include="iTextSharp" Version="5.5.13.2" />
+    <PackageReference Include="Microsoft.AspNet.Mvc" Version="5.2.7" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="3.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="3.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.0.0" />
+    <PackageReference Include="NLog" Version="4.7.10" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="4.12.0" />
+    <PackageReference Include="SSH.NET" Version="2020.0.1" />
+    <PackageReference Include="System.Drawing.Common" Version="4.5.1" />
+	<PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.15.0" />
+    <PackageReference Include="System.Text.Encoding" Version="4.3.0" />
+    <PackageReference Include="System.Text.Encoding.CodePages" Version="4.6.0" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <Content Update="nlog.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <Folder Include="KeyRSA\" />
+    <Folder Include="wwwroot\fileTableAu\" />
+    <Folder Include="wwwroot\FileUpload\" />
+    <Folder Include="wwwroot\filePDF\" />
+    <Folder Include="wwwroot\template\" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <ProjectReference Include="..\EVNSigner\EVNSigner.csproj" />
+  </ItemGroup>
+
+</Project>

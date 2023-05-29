@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Epayment", "Epayment.csproj", "{2EE341E6-EA68-4502-B169-C5242EB41147}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIERP", "..\APIERP\APIERP\APIERP.csproj", "{744794CA-0A05-4241-97B6-AE2F83A7A5F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EVNSigner", "..\EVNSigner\EVNSigner.csproj", "{66EE0936-1311-46C2-AE93-FC3F69F52034}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CERTSSL", "..\CERTSSL\CERTSSL.csproj", "{44C8D5C6-DADB-4D8C-B50B-FD7D017120DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EE341E6-EA68-4502-B169-C5242EB41147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE341E6-EA68-4502-B169-C5242EB41147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE341E6-EA68-4502-B169-C5242EB41147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE341E6-EA68-4502-B169-C5242EB41147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{744794CA-0A05-4241-97B6-AE2F83A7A5F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{744794CA-0A05-4241-97B6-AE2F83A7A5F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{744794CA-0A05-4241-97B6-AE2F83A7A5F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{744794CA-0A05-4241-97B6-AE2F83A7A5F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66EE0936-1311-46C2-AE93-FC3F69F52034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66EE0936-1311-46C2-AE93-FC3F69F52034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66EE0936-1311-46C2-AE93-FC3F69F52034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66EE0936-1311-46C2-AE93-FC3F69F52034}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44C8D5C6-DADB-4D8C-B50B-FD7D017120DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44C8D5C6-DADB-4D8C-B50B-FD7D017120DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44C8D5C6-DADB-4D8C-B50B-FD7D017120DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44C8D5C6-DADB-4D8C-B50B-FD7D017120DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85BCAEBD-E340-4467-954B-8B5FEBAD45F6}
+	EndGlobalSection
+EndGlobal
